@@ -1,0 +1,136 @@
+ 
+
+&px DE CENTRo oscnffissffffoNIS
+
+SonoLION.
+
+458. Equidem DficHALEs (a) centri 0J2
+*cillationis distantiam in erlimlro ex centro
+bafis suspensi tantummodo facit ξας de ipse
+non diffitetur fito temffore theoriam centri of-
+cillationis nondum fm'ffe excultam: immo vix
+fando quid audiverat de regula HUGENIANAae
+qaae in Horologio Oscillatorio demonstratur (h).
+
+PRoB 1. EM A LXXIX.
+
+459. Determinare centrum oſsillatio-
+nis in Cano ex verzice stespenstae.
+
+ResoLumo.
+
+211. Si altitudo Coni ΑΩΞΑ, radius
+·15· bafis Bczb, A12=x‚ PM=y; erit
+y=bx:a (ς. 268. Ceam). Qare
+(5454).
+x2y2dx Ξ b²x⁴dxta²
+ἐγ* dx Ξ ᾆὲὟἉκειύ
+xy2dx Ξ b2x³dx:a2
+
+adeoque sx2y2dx Ξ h2x⁵: ςιτζ
+s‘kfdx ΖΞ b4x⁵120a4 ”
+ſscy2dx = b²x⁴: 4a2
+Distantia igitur centri oscillationis ἐι pun-
+b2x⁵ b4x⁵ b2x4
+
+Cio suspensionis :- (ἴα-ἶ ÷ 552⁴)
+
+--ι
+
+. 4⁶22
+. Qodfi jam porro fiat
+
+ff nis pro Cono integro Ξ-ς-Δι -ὶ- -·.
+
+PnoBLEMA LXXX.
+
+460. Determinare centrum oſsilla-
+tiom's Sphaerae.
+
+(a) In Mundo Mathem. Tom. 2. Stat. Lib. 3.
+Prop. σς f. m- 322.
+
+(b) Vide Psop. praec. 64.
+
+. *— 15rx -i- 20r22-——9x2
+
+υς
+
+REsoLUTIO.
+
+Si diameter Sphaerae Ξ 2r , erit
+y} Ξ 2rx -——x2 (5, 377. Analyfi) 2
+adeoque y42--4r2x2-—20 4rx³ -l— x4. Ha·
+bemus adeo (§. 453).
+
+x2y2dx Ξ 2rx³dx ‹- x‘* dx
+ᾗ y⁴ dx Ξ r2x² dx —- rx³dx÷ ssx⁴dx
+xy2 dx Ξ 2rx2dx -— x³dx
+
+Ξ ————=—-——-1—---—-——-—
+
+ 
+
+sx2y³dx Ξ {7264 }x⁵
+sssy⁴dx = 3¹-r2x3—-213rx4-f-3'5x5
+ſs<y2 dx Ξ {rx-³ ——— ἧκ’*
+Est itaque distantia centri oscillationis ἐί
+{rx4-b}r³x³—3³=5x⁵
+
+7-.Ξ«---.-..----ι-
+
+ 
+
+punCto suspensionis Ξ
+
+ 
+
+ 
+
+ 
+
+Ξ 3—..2 4
+=<multiplicando per gx& diffidem-
+do per χε) 3νχ,ζνΪ-ξὲκῑ
+
+ 
+
+ 
+
+ 
+
+40r—- Ι §x Qodfi fiat
+
+—s— -·.
+
+κΞΖν, prodit distantia centri oscil-
+lationis pro Sphaera integra
+307² ÷ 2072 ——— 36r2
+4ον —-- 3or —
+Si pro r ponatur diameter d, quia
+Ξ2ν, adeoque -ξ-σίΞν, erit eadem
+distantia Ξ ξδ- d. ⁰
+
+ 
+
+ 
+
+ 
+
+Ξ ξὲν Ξ ζν.
+
+CoRoLLARluM.
+
+Qfflssffifizfflfflm
+4or ·-- 1 jx
+x: r3 prodit distantia centri ostiliationis
+
+15r ÷ κενὴ-πὶ 26r
+
+461. siin formula
+
+in hemisphaerio -——- --- st--,—, Ξ *— ,
+4ον »- ι ςν 3 5
+ubi nempe ex vertice fuerit suspensum.
+Ι Ρ 2, PRO-
+

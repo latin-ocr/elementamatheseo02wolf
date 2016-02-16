@@ -1,0 +1,106 @@
+*116 ELEMENTA MECHANICAE.
+
+PRossLEMA LXXXL
+
+462. Determinare centrum oscillan
+xionis in Conoide Parabolzco circa ver-
+ticem agitato.
+
+RESOLUTIO.
+
+Si parameter parabolae genetricis a5
+erit y² z: ax (9'. 388 Analyſs) ,
+adeoque γε a²x20 Habemus adeo
+
+-( §- 454)-
+x²y²clx z: ax³dx
+{falx Ξ ᾗιιῑκῑύὶασΥ
+xy² dx Ξ ax²dx
+
+adeoque s9²y²dx Ξ kase*
+sssy⁴dx Ξ ῑῑῖ a²x3>
+ſscy²dx = {ax3
+Quamobrem distantia centri oscil-
+lationis ὲ vertice
+
+ 
+
+ 
+
+τε (¹ sszssx—i—ssae.
+
+Si diameter basis fuerit b, Sc alti-
+tudo Conoidis Ξ c,- erit parameter
+z:- b²z c (§· 391 Affaeljs > Qodfi
+ergo x degenerat in c‚· prodit distantia
+centri oscfflationis εὶ vertice in Conoide
+integro z{c —ffi- bb.- 46'·
+
+PRQBLEMA LXXXIL
+
+460. Determinare centrum oscilla-
+
+tionis in omnibus Conoidibns parabo· r
+
+licis in iqfi'nitum circa verticem agi-
+tatzs.
+
+RnsoLuT1m
+
+Si parameter fuerit Ι ‚ pro omnibus
+parabolis In infinitum erit y--xssm (S. 5 19
+
+Analyfi), adeoque y²zx2²m &yffizxm⁹
+Habemus itaque ( §. 454 ).
+x²y²dx Ξ x2÷⁸²mdx
+{ssdx Ξ. {26⁴³mdx
+xy2 dx = x¹÷²²m dx
+
+ 
+
+ 
+
+ 
+
+swstdx Ξ 4m÷ffi 1÷4m
+ſsey2dxr-—2 zmn-L} ’σώζω
+
+Est igitur distantia centri oscillationis
+in infinitis Conoidibus parabolicis circa
+
+’ verticem agitatis
+
+2m-1--2-
+
+ 
+
+ 
+
+ 
+
+3⁷⁷2 -ὶ-’ῖ '²‘ ‘¹' 4m ÷ 16 x——ffl‘m
+2772 4- 2 m -ὶ- I —1422m
+Ξ 3m¹ -†-*2‘' κ’,- {XX-*g x
+
+Ponatur m Ξ 2, prodit {x 4- ῑῖῖ κ-θ,
+hoc est, Ob χοὶ-ἐι (§. 55.. Analyfi) ‚
+{x -k- ᾗ. Si parameses, quam posui-⁴
+mus ΣΙ , fiat a,· erit distantia centri
+
+ι-οἷεὶΠειῑίοηίε in Concide parabolico cir-
+ca verticem agitato {x -ὲ- 314> prorsus-
+
+ut ante (§. 462 ).⁴
+fRossLEMA LXXXIII.r
+
+464. Determinare centrum oscilla-
+tionis in Conoide liffyperbolico circa vere
+tieem agitato.
+
+Βεεοιυτιο.
+
+Quoniam planum describens est hyr}
+
+pez-bola> fi axis transversus dicitur a ‚·
+para·
+

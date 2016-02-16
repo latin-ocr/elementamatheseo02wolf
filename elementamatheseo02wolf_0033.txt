@@ -1,0 +1,180 @@
+ω] 1. DE MOTU UNIFORMITER ACCELERATO δε RETARDATO. ιφ ·
+
+x=t÷ a
+x==t2†2at÷a2
+
+οσὶ---αιῑπτ2 -l- zat
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SCHOLION.
+
+105. Apparet adeo, exemplum hoc non
+alium habere afimz, quam ad exercendum
+calculum summatorium Et idem quoque de
+stquentibus patebit.
+
+PRoBLEMA VII
+
+106. Si celeritas tempore t acquisi-
+
+ta fuerit ul t”“'¹: ζ t ’²-†-²a '² ), determi-
+nare spatium r
+
+ResoLurxo.
+
+Qoniam dr=cdt ( §. 101) erit
+dr-—z--tn ⁷¹¹— ¹a't· (ί2 ²²÷a² ²²). Ut Elemen-
+mentum integrabile reddatur, fiat
+
+ὃ
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2²⁷² :am ⁸—2x
+erit t=a<T—1:n)nxx.n
+1
+dt ’.Ξ-ἧ a(n—1):nx1:n—·1dx
+
+Porro ob tn—1-:ztnzt
+
+*a———m-——Q ——u-—m-
+
+ 
+
+ 
+
+ 
+
+ 
+
+t -1 άιΞ-ῐ-αηῆι dx
+,n--1dt {an—‘1 dx .
+{in-Pam: azn--zxz †d2”
+ἰτέαι-Ξ, 2 dx γ
+x ÷a2
+Qare spatIum r--L-a1-”s dx
+
+ 
+
+n x2÷a2·
+
+Si tangens arcus circuli fuerit x, ra-
+
+a2dx
+x2÷2 arcus (§. 185Ana..⁵
+lyfi in fin. ), ut adeo quadratura cur-
+vae‚ quae spatium ν exhibet, pendeat a
+rediificatione arcus circuli.
+VARlGNONJUS formulam, quae ex-
+primit arcum in· relatione ad tan-
+gentem reducit ad aliam, quae eundem
+arcum exhibet in relatione ad finum
+versum : id quod fic hoc modo. Sit*
+x=av“(2a:y-- 1 )
+=²a(2ay—‘·¹--1)¹²2
+erit dxztz-a2y-‘2dy r xlmas—'¹ - Ι )
+Elementum hoc in praesente casu su-
+mendum est positivum, quia crescen-
+te x decrescit y, consequenter ipsius y
+differentiale— -dy.
+
+Porro αεὶ-«243. y- a
+x2÷42=2455y
+
+ 
+
+dius a 2 etits
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+         
+
+ 
+
+Qamobrem
+dx “ ——W 522de—
+x2-f-2—2: 2a5y57-(3ay— ¹ ·- 1 )
+..mk ady
+2a²1l<2ay—y2)
+[ΛΓ-ηὼς 1 ady
+J.x2†a2- -- 2na μ ss<2ay-y2 )
+
+ 
+
+ 
+
+ 
+
+PRoBLeMA VIII.
+
+107. Data celeritate c tempore t
+acquifita , quae fit ut ιη’-’ί : (tm—am),
+invenire spadum r.
+
+R E s o L U T 1 o.
+Qfa drz--cdt (§ 101)
+erit· ἷκειη-Ιᾶὶῗῖιῆ--ᾸὌ
+Ponatur ut ante (§· 104)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+22²²: am —2x2
+t ⁷⁷—³dt 1 dx
+reperietur- tm -a'- ηῑ--Μη-...ι 'xa—32
+C 2 pistor„
+

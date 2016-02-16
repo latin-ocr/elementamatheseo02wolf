@@ -1,0 +1,125 @@
+f cap. xlii. DE VI CENTRIFUGA ET (ῖΕΝ-ΓΜΡΕΤΑ. 169·
+
+{ob 2 δε a constantes quantitates in
+
+1
+
+omni punito curvae ‚ :z Hom· 178.
+
+'181.Arithm. ). Vis igitur centripeta
+tendens ad focum sestionis conicae est
+reciproce ut quadratum distantiae a fo-
+co seu radii vectoris. [ζα. cl. ·
+
+SCHoLloN.
+
+661. Qoniam proprietas haze festio-nibus
+scenicis communis Θ ex communibus earum
+proprietatibus fluit,· ideo conveniens esi ut
+generaliter ex iisdem demonstretur. Mensu-
+Ponc'sb‘ θ’
+rius demonstratam (ἓ. 657. ) invenit ABRA-
+HAMus De Momm, Geometra eximius.
+Quod vero eadem conveniat cum mensuris
+aliorum, quas quantitates infinite parve in-
+
+Ieriuntur , sequente problemate ostendere
+lu et.
+
+ram virium centripetarumut
+
+ 
+
+PROBLEMA CVI.
+
+662. Invenire vim centripetam in
+qualibet curva.
+
+ResoLUTIO.
+
+, 'Sit O centrum virium , ΜΟ radius
+.’ νεᾶὶοτ, MC radius osculi, ὃς ΟΡ ad
+‚ tangentem PM petpendicularis'. Des-
+cribatur ex centro virium O radio vec«-
+ἐ tore Mo arcus infinite parvus MK.
+¹ Fiat MC Ξ n, ΜΟ = κς erith’: dx.
+³ Sit porro MK z dz, & arculus curvae
+’ Min: ds: tempus vero per arcum Mm
+:a dt. Qoniam hoc est ut [εᾶοτ
+OMK (§· 652 >3 erit dt: MK.÷MO
+seu ob determinatam quantitatem} ,
+³ ut MKMO ( §. 17 8, Arithm.)‚ adeoque
+ut xdz. Porro cum angulus ad P fit rec-
+tus per constr. & K reustus ( §. 38.
+lisolfii Oper. Mathem. Tom. ΙΙ.
+
+ 
+
+ 
+
+Analyss infin.) δε ob infinite parvum
+MOm Ξ O (§. 3. Analyfi infin.) PMO
+,τι MmK(§. 239. Geom. ); erit
+
+Mm: M1<=MO .· ΟΡ
+
+xdz
+cls :dz Ξ x ε-ἂῐ-ς-
+
+x³dz³
+
+Est igitur oP³=——& hinc cum
+
+ds³
+
+Vis centralis Οζξῖῖὲ( §. 657 >etit ea
+
+ 
+
+nx³dz³
+ds³
+
+—- ο
+--λ.
+-αι-
+
+ds³
+ᾖ nx²dz³
+Est vero dt Ξ καέ. per demonstr.
+ἃ hinc dt² = x²dz2
+
+ 
+
+ 
+
+ds³
+ndzdffi
+Atque hic est characterAnalyticus unUS,
+quem dedit VAR1GNON1US (a).
+
+Aliter. ¹
+
+Quoniam angulus CMR rectus (ς.
+337. Anal. ilfin. )‚er1’c MRm ab eo-
+dem non differens nisi quantitate in-
+finite parva MCR < §. 239. Geom.)
+itidem restus (§· 4. Analyfi infin. δε
+5. 145. Geom.), ὃς ex eadem ratione
+MmR etiam rectus, Qamobrem mR
+haberi potest pro arcum, radio ΜΨ
+descripto ex centro M (§. 38. Ana-
+lyfi infin. >. Cum adeo fit Mra-:MR
+( §. 40. Geom.) ; erit RN differentia
+inter arcum Mm δε portionem tan-
+gentis MN seu differentia secunda
+asculi Mm. Unde fi Mm=ds ‚ ut
+ante, RN =dd5. Sit porro ut ante
+MK Ξ dz , MO=x3 adeoque Km
+Y ==dx=
+
+(.1)1n Commem- A. 1701. p. 28. edit. Bac.
+
+ 
+
+Quare Vis centralis =
+

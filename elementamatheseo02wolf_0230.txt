@@ -1,0 +1,107 @@
+72.
+
+216* 'ELEMENTA MECHANICAE.
+
+Sunt adeo revolutiones rotae tardius
+motae, ad revolutiones velocius mot->emt
+peripheria axis ΡΙ) , ad peripheriam ro-
+taeM , cui occurrit. Qr. d.
+
+CoRoLLARIUM L
+
+810. Eaedem igitur revolutiones sunt
+ut radius axis FE, ad radium rotae DC
+
+(§. 412. Geom. ).
+COROLLARIUM IL
+
+81 1. Cum numerus dentium in axe ΡΙ), ·
+
+fit ad numerum dentium in peripheria ro-
+tae M ; ut peripheria illius, ad peripheriam
+hujus; erunt revolutiones rotae tardius
+motae M, ad revolutiones celerius motae
+N,· ut numerus dentium seu paxillorum
+in axe, ad numerum dentium in rota M,
+cui iste occurrit„
+
+THEOREMA CLXXXIX.
+
+812. Si ope plurium rotarum M,
+Tab· N, O &a potentia movet pondus Α,
+ᾞ· crunt revolutiones rotae celerrime motae O,
+ΖΕ· ad revolutioms tardtffime motae M , in
+ratione compostta ex rationibus recipro-
+cis peripheriarzaem'axz'um IG , FD &a
+(y perz'pheriarum rotarum N , Μ &a
+quibus illi occurrunt.
+
+DEMoNsTRA-sIO.
+
+Sint peripheriae rotarum M Sc N
+m δε n ‚ peripheria? axium DF & (ΕΙ
+a &bz erit ut a2ad φης ita 1,ad numerum
+revolutionum rotae N (§. 809) :m :a
+ζ §. 302. Arithm.). Est vero porro
+ut aad ης ita m .· a, ad numerum revolu-
+tionum rotae O ( §. 809 ) t: mn ,ε ab
+(ὃ. 302. Arithm. ). Qare revolutiones
+rotae celerrime motae Ο, suntad revolu-
+tiones rotae tardiffime morae M,- ut
+mn: ab, ad12lioc est ut mmad &Osi-178.
+
+Arithm.) consequenter in ratione com· .
+polita ex rationibus peripheriarum rod
+tarum M ὅ( N ad peripherias axium
+DF &G1, qui ipfis occurrunt (§. 159. .-
+Arithm.). Q e. d. ³
+
+COROLLARIUM Ι..
+
+ 
+
+813. Qioniam numeri dentium sunt .
+in ratione peripheriarum ; revolutiones
+rotae tardissime motae M, sunt ad revolutio-
+nes rotoe velocissime motae Ο, in ratione ἵ
+composita earum, quas habent numeri den- ’
+tium in axibus FD, IG &c. ad numeros
+dentium in. rotis N & M διε. quibus oc-
+
+’ currunt„
+
+COROLLARIUM 11.
+
+814. Quia peripheriae sunt ut radii,
+( §. 41 2. Geom. ) revolutiones rotae tardis-
+fime motae M,s unt ad revolutiones rotae ve= 3
+locisl‘ime motae O, in ratione composita ea-
+rum, quas habent radii axium GH, DE
+δίς. ad radios rotarum GE, DC &c. qui-
+bus occurrunt.
+
+COROLLARIUM ΙΙΙ.
+
+815. Qiare fi fabium ex radiis rota-
+rum GE, DC &a ducas innumerum revo-
+lutionum rotae tardissime motae M, & pro-
+duftum dividas per feretum ex radiis axium,
+qui ipsis occurrunt ‚ GH, DE &c. prodit
+numerus revolutionum rotae velocissime
+motae O <m 302. Arithm.). E. gr. fit
+GE: 8, DC Ξ 12 ‚ GH=4‚ DE: 3,
+&revolutio rotse M una, erit numerus
+revolutionum rotae O Ξ 96 : 12 = 8.
+
+PRoBLEMA CXXVHI.
+
+816. Datis revolutionibus rotae ve· T
+lociffime circumdala O interea absolutis ‚ V
+dnm tardtſjime mota M semel in orbem fj
+
+redit3 invenire dentium in axibus (ῤ’ 7’
+
+retis numerum.
+
+Reso-
+

@@ -1,0 +1,106 @@
+cap. 111. DE CENTRo GRAviTAms. 35
+
+6ae÷4x ad 4a÷ 3x, ita x* ad distan-
+tiam. centri gravitatis a vertice. Cons-
+tat vero esse a axem transversum hy-
+perbolae genitricis , x altitudinem co-
+
+CoRoLLARIUM III.
+183. Si pro x ponatur {a , prodit distan-
+tia centri gravitatis in dimidio sphaeroide
+a vertice (ξς-αα .-. Ξαιτ) .· (σα ,.. sta) Ξ {aa : 4ae
+
+noidi5‚ seu illius absciffam (459 Anal. “ ’Ἓξ-64» eadem adeo quae 5¹1 hemisphaerio
+
+fiii-{JROBLEMA XXXIII.
+
+180. Invenire centrum gravitatis
+fignzeutisphaeroidis elliptici.
+R E s o L U T 1 0.
+
+In sphaeroide elliptico pondusculum
+pbxdx ε 2r—pbx2dx: Ζάν ( §- 203. Ana-
+lyfi infinit.) ‚ adeoque momentum ejus
+pbx²dx2 2r-pbx³dx: aar (§.153).Qa-
+re momentorum summa pbx³z 6r —pbx42
+8ar Ξ (4apbx³ — 3pbx4) : 24ar‚ quae per
+, summam ponderum pbx2: 4r -pbx³: 6ar
+s §. 203 Analyſs infinit. ) Ξ( 6apbx²
+- 4pbx³): 24ar divisa distantiam cen-
+tri gravitatis a vertice determinat
+( 4apbx³ - 3pbx⁴) : ( 6apbx² — 4phx‘³ )
+τε (4ax— 3x2) ε (6a -4x ). Est adeo
+ut 6a——4x ad 4a-3x , hoc est , ut
+a——}x ad 3²-d-{· x ita x ad distantiam
+centri gravitatis a vertice. Denotat
+autem a axem majorem ellipsis gene-
+triciS, seu ipsum axem majorem sphae-
+roidis,· x autem altitudinem segmenti,
+seu portionem axis inter verticem ὃς
+bafin interceptam.
+
+CoRoLLAR1UM L
+18 1.Q10ds1 pro x ponatur a, prodit pro
+centro gravitatis totius sphaeroidis elliptici
+(4aa... 3aa) ε (6a—4a) :- aae: za Ξ {d-
+Est nempe in medio axe.
+
+CoRoLLAR1uM II.
+
+182. Sphaerae igitur & sphaeroidis elli-
+ptici communem axem habentium cen·-
+trum gravitatis idem est (§· 178).
+
+(§. 378). Nam fi ut ibi flata: ιν, erit
+{3a=÷gr={r·
+ΡιῖοΒιΕΜΛ XXXIV.
+, Tab.II
+
+184. Invenire centrum gravitatis fig 15
+in Corio truncato BMND ὠ in pyra- ⁸
+
+mide truncata.
+
+ResoLUTm.
+
+Ι. Inveniatur centrum gravitatis Co-
+ni AMN (§. 174): quod fit in F.
+2. Inveniatur quoque centrum gravi-
+tatis Coni majoris BAD < §. cit.):
+
+quod fit in G.
+
+3. Qaeratur ad Conum'truncatum
+BMND‚ Conurn minorem MAN
+& PG quarta proportionalis GH:
+erit in H centrum gravitatis Coni
+
+truncati (§. 144).
+Patet autem ‚ rationem Coni truncati
+
+BMND ad minorem MAN lineisgeffc
+
+exprimendam , nisi numeris utamur.
+
+S t: H o L 1 o N.
+
+185. Eadem methodo centrum gravitatis⁴
+reperies in conoidihus truncatis, itemque in
+sphaera (θ’ sploaeroidibus truncatis. Enimvero
+quamvis multa adhuc ea de re addi poffeut3
+
+ί filum tamen abrumpi consultum ducimus, cum
+
+ex habienus ,dictis facile eruantur, nec mul-
+tum in praxi habeant usum. Adjiciemus ita-
+que tantummodo adhuc methodum centrum
+gravitatis aut pandum ipfi in superficie cor-
+poris cujuscunque respondens Mechanice exa
+plorandi, quantum ad praxirt sufficit.
+
+PROBLEMA XXXV.
+1 86. Determinare centrum gravita-
+
+tis Mecha’nice in corpore quocunque.
+E 2 Reso-
+

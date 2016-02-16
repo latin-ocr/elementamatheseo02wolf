@@ -1,0 +1,110 @@
+7.
+
+*tyb-tu
+
+Capstll Ι. DE DESCENSU ET ASCENSU Com). IN LINEIS CURVIS. 9 ς
+
+ut peripheria circuli ad diametrum
+(§. 387). adeoque in ratione constante
+(§.413 Arithm.). Quare fi osc-illatio
+ejusdem penduli fit tardior , descensus
+quoque gravium perpendicularis tar-
+dior evadit: fi ille redditur celerior5
+hic quoque celerior fit necefl'e est. In
+primo igitur casu minus spatium ca-
+dendo conficit grave, quarn in altem,
+adeoque in illo motus minori vi ac-
+celeratur, quam in altero , consequen-
+ter gravitas minor est. Qed.
+
+CoRoLLARIUM.
+
+390. Cum adeo experientia docuerit ‚
+oscillationes ejusdem penduli effe tardio-
+res prope aequatorem-‚ quam in remotio-
+ribus versus polum regionibus; gravitas
+corpor-um minor est versus-aequatorem ,
+quam versus polos.
+
+ScHoLtoN.
+
+391. Observavit hoc primus R1cnfiiuus
+An. 1672. itinere, in Insulam Cayennae, quae
+ab aequatore 5 fere gradibus distat, sablo,
+ubi pendulum Parifiense fingulis minutis Je-
+
+*v cundis ofirllans, cujus longitudo erat pedum
+
+3 ,. linearum εξ, minuendum erat linea una
+
+cum quadrante ‚ ut adhuc oscillationes fingu-
+lis minutis secundis absolveret (a).An. 1 677.
+HALLEJus ad Insulam S. Helenae navigans
+reperit Horologium suum ibi tardius· move-
+ri, quam Londini ‚ sed differentiam* non
+notavit. Similes observationes habuere An.
+1682. VARm ό* mas ΗΛΥεε, An.1697.
+ἂεῖυηετ filius, &⁹ An.‘17o4. F ε υ 1 1. L εέ
+THEOREMA LVIL
+
+392. Si duo pendula CA ὠ EF in
+
+'arcus similes DAB (θ’ GFH excurranti
+
+*tempora oſsillatienum fimt in ratione
+
+staebduplicata longitudinum CA ῤ’ EF.
+
+(a) Aera Eruditorum ·‚ Αη. 1695. p. 300 ο
+
+(b Vid. Nawrouom in Principiis, Lib. 111..
+Pssopf 19. p. m. 4¹9»
+
+DEMoNSTRATIO.
+
+Tempus descensus per DA est ad
+tempus descensus per GF in ratione
+subduplicata DA ad GP (§. 314),
+Sed tempora ista sunt oscillationum per
+arcus 1>ss δε GH dimidia. Ergo ὅ(
+tempora oscillationum sunt in ratione
+subduplicata arcuum DA & GP (§. 178
+Arithm.)‚ consequenter δε radiorum
+CA & EF, quibus arcus similes DA
+δε GF per hypoth. describuntur (§.412.
+Geom. ὃς 170 Arirhm.) Qe. d.
+
+CoRoLLARIUM
+
+393. Longitudines igitur pendulorum
+in arcus similes DA ὃ( GF excurrentium
+sunt in ratione duplicata temporum, qui-
+bus fingulae oscillationes conficiuntur,
+
+THfioRtMA LVIL
+
+394. Numeri oscillationum 170σῶνο-
+narum ἃ duobus pendulis eedem tempore
+confec‘iarum fimt reciproce ut tempora,
+quibus fingulae oscillationes fiunt. x
+
+DEMONSTRATIQ
+
+Sit intra tempus a numerus oscilla·
+tionum penduli unius :b 2 alterius ,
+amb. Cum oscillationes fingulae ejus-
+dem penduli supponantur aequidiutur-
+nee, erit tempu3‚ quo pendulum primum
+oscillationem unam conficit, =a:b‚
+& tempus , quo alterum oscillatio-
+nem unam absolvit, =a2mb (§.302
+Amba). Sunt ergo tempora , quIbus
+fingulae oscillationes fiunt, ut asb ad
+a: mh, hoc est , ut amb ad ab (§.178
+Arithm. ) seu ut mb ad b (S. 181
+Arithm.). Sed ut mh ad b ita est
+numerus oscillationum penduli secundi
+
+ad primum. Sunt itaque numeri pscil-
+atio-
+

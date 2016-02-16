@@ -1,0 +1,154 @@
+rcapys. DE CENTRO
+
+Si alt3tudo C oni fucrit semidiametro ba-
+fis aequalis, erit a εἰν, adeoque b2:a za.
+Unde distantia centn¹ oscillationis in
+Cono rcfiangulo εἰ ρυηᾶῑο suf'peniio-
+nis {a -4- {aza-
+
+PROBLEMA LXXXVL
+
+467. Determinare centrum ofi'illatio-
+nis in hemisphaerio ex centro basis stassfenso'.
+
+R E s ο L U T 1 ο.
+
+Quoniam absciffae hic computantur ὲ
+centro , fi radius cinnii fis. r, erit y2 ,τ-
+r2—x²(§.377 Attal.) 8? y4--r4—2r2.³<2†x4.
+Habemus itaque (5454),
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+x²y²dx εἰ r2x'2a‘x ,γ”ἅκ
+ἐφ’* dx Ξ ὲνἈκ {r‘x2dx4-{x4dx
+xy2 dx == νΖ xdx x³ dx
+- stczyzdx Ξ 33-r'· χε ,..,- ὲςχζ
+— 5r2 x³ ——— 3x⁵
+““ 15
+sssy⁴dx ..τ- {7426 -—· gr2x³÷3¹3x⁵
+..- 15r⁴x 10r2x³ ·†- 3 νς
+”““ 60 *—
+βεγ- dx -Ξ ἐν’-κλῇ ssx‘*
+,- 27·2 x2-—- x⁴
+““ 4
+
+Est itaque distantia centri oscillatio-
+nis εἰ Ρυηέὶο suspensionis
+20r² ³6:32³& 15r4— 10r2x2-1- 3x⁴
+30r2———1 5x2 30r2xv— 1 5x³ ’
+aut, redustione ad eandem denominatio-
+nem ffiaefta, multiplicando primum mem-
+.b 10r2x² --— 9x³ —1- ³5r4
+- rum per x, - - ³--
+
+30r2x-—- 1 5x³
+
+Qodfi fiat x τεν, prodibit distantfa
+centri oscillationis ὲ punCto suspensi&
+nis·¹ in hemisphaerio integro
+10t4--- ς>ν4 4 Ῑςν4
+
+3ον3 -Tffa‘
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+’ΞΖ
+
+ 
+
+ 
+
+ἓν.
+
+:zl-
+1
+
+OSCILLATIONIS n9
+
+SCHOLION.
+
+468. A⁷on absimili modo inveniri potes}
+centrum osculationis Conoz'ciis (T Sphaeroz'dis
+dimidii ex centro basis suspensi. Potest etiam
+pum‘lttm fitspenfionis h extra figuram affimzi,
+ut distantia poma'ussxli Ι) αἶ) axe ofi‘illcztiont‘s
+fit Ph atque ab abs'cifflz figurae ΑΡ differat
+
+quantitate Ah , veluti fi figura oscillaztts ex Tab.I,
+filo suspendatur: quoin casn HUGENIUS re· fig.9.
+perit in splaaem ex filo tenui [iifl-{tensa distan-
+
+tiam centri oscillationis effe longitudinem fili
+(Γ rudiam atque duas quintas terticc propor-
+tionalis ad compofttam ex semidiametro sjohae-
+rae ac longitudine fili ⁴&fc’miditzmetrtsm ipsam
+
+(a), hoc est>fi filum :l,r„zdins :m ἰψνψῖῧξᾞ
+
+PROBLEMA LXXXVII.
+
+469. Determinare quantitatem pedis
+horarii.
+
+REsoLUTIO.
+
+1. Horologium pendulo inter duas sc-
+micycloidcs suspenso ὃς 1‘{ngulas oscil-
+laniones {iugulis minutis secundis aut
+corum semiffibus absolvente (ᾗ. 382)
+instrufium ὃς secunda temporis scru-
+pula indice peculari monstrans ad
+motum stellarum ca ratione compo-
+natur, quae inferius in Astronomia
+
+’ expommr.
+
+2. Globus plumbeus ex filo tenui sus-
+pensus (§. 377) leniter impellatur ,
+ut nonnisi exiguos arcus describat,
+quo fingulae oscillationes fint Iso-
+chronae (ς. 383) ὃ( tamdiu augea-
+tur , vel minuatur fili longitudo„ do-
+nec‘oscillationes {iugulis minutis se-
+cundis absolvantur.
+
+3· Qo-
+
+f 1004 In Psorolog. osculat. Pam IV. Prop. 22,
+ο . 1 2.
+

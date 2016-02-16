@@ -1,0 +1,99 @@
+eap.X1'V. DE RESISTENTIA MEDH. 187
+
+extincta terminum B attingere non pos-
+fit , nullo quoque tempore finito eun-
+dem attingere valet , adeoque spatium
+percurrendum integrum AB nunquam
+absolvit. Qod erat strandum.
+
+Quia tamen motus indesinenter con-
+tinuatur, adeoque spatium celeritatibus
+amiffis descriptum continuo crescit ς mo-
+bile ad terminum suum Β continuo pro-
+pius accedit. Quod erat tertium.
+
+ScHoL'toN.
+
+691. Nemo objiciat propositionem prae-
+semem experien-tiae repugnare: neque enim
+hypothesis resistentiae in ratione velocitatum
+naturae rerum conformis , quemadmodum fiaspi-
+catus fuit WALL131us. Et fi vel maxime
+hypothefis naturae prope ad eam accederet,
+ex naturae consuetudine motus in praxi tan-
+dem insensibilis fieri deberet ‚ quemadmodum
+ὰ LEIBN1T10 (a) Jam annotatum est.
+
+THEOREMA CXLIX.
+
+69 2. Si intra'asymp'totos redangulas
+rab AB& ΒΚ describatur FIyperbola FL8‚&‚
+VH' motus initio, celeritas exponatur per rec-
+fig: tam AB , elapso aliquo tempore vero per
+16 9. reblam OB,- tempus per aream AFLO
+
+ό· spatium eo tempore destriptum per
+restam AO exprimi potest.
+
+DEMoNsTRATIO.
+
+Si enim BQ ὃς ΒΟ fuerint celeritas
+tes in fine temporum ΒΜ & BR testan-
+tes,· dicaturque BQ= y , ΒΟ =z3 erit
+sy : z Ξ dy: dz (§. 68 ς ). consequenter
+y: dy=z : dz (§. 173. Arithm. ).
+Sunt vero 3¹2& ‘'f-elementa spatii Hy-
+
+(a) 1n Acus Erudit. An. 1689. p. 4ιό
+
+perbolici asymptotici (§. 120. Anal-
+infin. ). Qamobrem elementa ista
+aequalia sunt, fi eorum altitudines ‚ quae
+sunt absciffarum in asymptoto BA sum.
+tarum differentialia , fuerint ut celeri—
+tates in instanti amiffae. Qodfi ergo
+ab initio motus usque ad plenariam ex-
+tinctionem sumantur continuo AO, AQ
+ut celeritates extinctae ς Spatium Hyper-
+bolicum asymptoticum resolvitur in ele-
+menta inter se aequalia. Atque adeo
+area FAOL succeffiva elementorum
+aequalium additione gignitur , quemad-
+modum absciffa ΑΡ continua accessione
+
+elementorum aequalium resultat. Enim·-
+
+vero abscissa Al) exponitur tempus ‚
+
+quo celeritas ΡΝ five Ao amittitur
+
+per hypoth. Ergo etiam spatium Hyper-
+
+bolicum AFLO tempus defignare debet,
+
+quo celeritas Ao amittitur. ,Quod erat
+
+unum.
+
+Jam redtae Ao & AQ sunt ut celeri-
+tates temporibus EM δε BR amiffae per
+hypoth. Sunt vero spatia temporibus
+EM St BR movendo confesta‘ut cele-
+ritates iisdem temporibus extindtae
+( §- 684 )· Ergo spatia temporibus ΒΜ
+δε BR seu, quod perinde est per de-
+monstrata, temporibus AFLO δε AFHQ
+confedta sunt ut rectae AO & AQ
+
+Qod erat alterum.
+THEOREMA CL.
+
+693. Sc· motui aequabili in medio νεὲ
+
+fistitur in ratione celeritatum ‚ decre-
+
+menta celeritatum fimt incrementis spa-
+tiorum proportionaliaa
+
+Aa 2 DE.
+

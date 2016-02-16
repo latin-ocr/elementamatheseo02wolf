@@ -1,0 +1,97 @@
+Tala.
+XIV.a.
+fig.
+ut 3 5„
+
+70, ELEMENTA MECHANICAE.
+
+reperitur ‚ eodem prorsus quo supra
+(§ 334.) modo, Mm=vdx‚ ut adeo
+habeamus
+
+————-———-
+
+dy² Ξ v² dx‘ - dx²
+
+dy=dxts(v²-1)
+
+Qodli jam fit v: dx, quemadm02
+dum in hypothesi GALILAEANA: pro-
+dibit dyae-edxtl ( x—1 ), prorsus ut
+supra <§. cit. ) Solutio itaque particu-
+laris convertitur in universalem ‚ aut
+potius specialis in generalem ‚ fi pro 'jx
+pones v , id quod regulis Logici3‚ quas
+stabilivimus , ad amuffim congruit( §.
+710. Lag. ).
+
+Qtodfi magis arriserit ope loci sol-
+licitationum ccntralium , seu scalae gra-
+vitatis IQO Problema solvere; pari
+facilitate idern praestatur. Accedat
+enim porro ad curvam Isochronam
+BMC <Sc curvam celeritatum ANC scala
+sollicitationum centralium IQO δε fit
+communis abscissa ΑΡ in altitudine ac-
+celeratrice A1³=:x, PM ==y, PN—-zv,
+PQ-z‘ffi eritv²=2ssdx(§. 113. ).
+Quare fi pro vz hunc valorem substi-
+tuas , prodibit dy Ξ dxx! (2 [gabe—1 ).
+Qodfi jam supponas , quemadmodum
+id obtinet in hypothefi GaLlLAEANA
+·( §. 1 12 ), gravitatem constantem, quae
+adeo fit ut 15 erit ely-:dms (2ſslx— Ι)
+τε Δκςί (’ 2x--‹ 1 )‚ vel , cum hic sola
+
+ratio attendatur , minime autem magni-
+
+tudo absoluta , aly-:Axis (x·-⁴ 1 )2
+ut supra (§. 334).
+
+Senotton.
+
+344. In curva Isbchrona temporis aescae
+fus sunt ut altitudines ‚ per quas descenditur
+(§. 332. ). Inveniri autem poffunt etiam
+curvae aliae, in quibus tempus ad altitudi-
+nem relationem quamcunque constantem vel
+quomodocunque affignabilem habet. Qamo-
+brem in gratiam artis inveniendi solutionem
+Problematis generalem apponimus, sub quo
+curva Ifhchrona tanquam casus particularis
+nommetur.
+
+PRoBLEMA L.
+
+345. Invenire curvam ‚ in quagra-
+ve descendit ea lege , ut tempus habeat
+ad altitudmem , per quam descendit, re-
+lationem datam , ſseu ut tempora defien-
+fiaes habeant inter st' relationem ex datis
+altitudznt'bus dato modo affignabilem,
+suppositis quacunque accelerationis lege
+ά daemonibus sive parallelis, five con-
+vergentibus.
+
+ResoLUTm.
+
+Non differt resolutio Problematis Tab
+praesentis a resolutione praecedente, XIV
+
+= nili quod circa axem communem de· fig·
+
+scribatur ‚ praeter curvam descensus ¹3⁶¹
+BMC, curva celeritatis ANE ‚ etiam
+curva temporis ASH. Nimirum graue
+in curva BMC ea lege descendit. ut in
+
+M lit celeritas ut semiordinata ΡΝ,
+tempus vero ut ΡΒ.
+
+Sit Apa-ae, Psz, PS-e-t, PM ·
+:3¹3 erit meff(dx2†&2) stem·-
+que ob suppolitum per Mm motum ae·
+quabilem vdt, ut supra ( §, 335).
+
+Habo-
+

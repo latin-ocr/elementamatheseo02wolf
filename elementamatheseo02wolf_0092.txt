@@ -1,0 +1,99 @@
+73 ELEMENTAMECHANICAE.
+
+ResoLuTIo.
+
+Sit altitudo Ap , per quam descen-
+dit grave‚ ΑΜΒ curva de1”censuS‚ANR
+curva celeri-tatis 2 ΡΝ. celeritas in P. ac-
+quisita 2 in C centrum gravium. Radiis
+CM δε cm infinite propinquis describan-
+tur arcus PM & pm, fitque Ap:x ,
+PM :y.·erit Pp: MR: dx‚Rm= dy,
+adeoque ΜΨ Ξ vs( dx2÷ df). Quo—
+niam motus per M aequabilis , erit ΜΨ
+Ξ dt. ΡΝ (§. 34. consequenter
+
+adae-1* dy2) = dt. ΡΝ
+
+-ᾑ-*ῌῂ--ὶ
+
+si punCtum C infinite distet , arcus
+PM δε pm evadent rectae ad AC per-
+pendiculares,manentque omnia ut ante.
+
+Qiodfi ex hypothesi gravitatis spe-
+ciali substituatur valor ipsius ΡΝ, five
+celeritatis3 prodibit valor temporis pro
+illa gravitatis hypothefi. Si vero ulte-
+rius εχ aequatione ad curvam substitua-
+tur valor ipfius y per x ,- prodibit tem-
+pus in casu speciali dato,
+
+In hypothesi GALrLAzaNA, ΡΝ Ξ dx,
+five, fi parameter parabolae quae cur-
+va celeritatum ANR , fuerit a, ΡΝ =
+‚fax (ς. 87 ). Ergo tempus· per Mm Ξ
+«Ι (dx2÷dy2) ε dax , adeoque dt2 Ξ
+(a'y2-bdx2) : ax.
+
+Sit jam curva descensus ΑΜΒ etiam
+parabola, cujus vertex in A ‚ axis AQ
+erit in hypothesi directionum parallel-
+larum AQ: PM :y ‚ QM :AP Ξκ,
+adeoque (ἓ, 388 Analyfi >-
+
+x2::·.ay
+
+2xdx Ξ ady
+
+Ergo dt2= -—--——
+
+4x2dx2: a2 Ξ dy2
+( 4x2 dx2 -l-a2dx2 ): ax ·
+
+ 
+
+ιι
+
+———.-———.
+
+ 
+
+ 
+
+Quoniam dt Ξ ff(dx2÷dy2):1lax;
+poterat idem valor facilius inveniri ,
+Elementum arcu-2 parabolici Mm Ξ dx
+xl( 4x2÷a2): a (§, ¹46 Amal. infin.)
+dividendo per celeritatem in M acqui-
+fitana Ξ dax.
+
+Est igiturt :stdxtlfflxvi-ffi) : adase)
+
+Qrodsi per quadraturam alicujus cur-
+vae ANR curva temporum construi de-
+bet, dividendo spatium APN per quan-
+titatem constantem a ς erit Elementum
+illius curvae Pan= dx ff(4x2÷a2):
+xsax.
+
+Quare cum fit Pp :dx3 erit semior-
+dinata ejus DN: v( 4x2÷a2) :xlaxsem
+fi a Ξ Ι, ΡΝ :ast 4x2†a2).· dax. 1:st
+vero >dax sexniordinata parabolae , cujus
+abscissa ΑΡ Ξ x , parameter Ξ a ( §. 392
+Anaelyf)‚ ys( 4x2÷a2) abscissa hyper·-
+bolae aequilaterae a centro computata ‚
+cujus axis transversus: za ‚ semiordi-
+nata: 2y (ἕ. 147 Αηαί.ι“κ]9η. ). Curva Tan
+igitur, a cujus quadratura pendet cons- XIV.
+trustio curvae temporum ‚ ita tonstrui— Fig-
+tur. Circa communem axem AX cons· ¹41⁶*
+truatur parabola AMT & hyperbola
+aequilatera AOV ( §.472 Analyſs )‚
+cujus centrum in C ‚ axis dimidius
+AC :a ‚ qui simul parabolae AMT pa-
+
+rameter· Dudta semiordinata paralblalae
+’ 2
+

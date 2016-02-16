@@ -1,0 +1,105 @@
+6 “ ELEMENTA
+
+tium bis s & celeritate quacunque
+multiplici vel submultiplici nc spatium
+quodcunque multiplex vel submulti-
+plex ns(§. 31.) Erunt adeo spatia
+s& S(==—ns) descripta ut celeritates
+c δε (ἶζτειιε). Qare si mobile B eo-
+dem tempore t celeritate C describit
+spatium S: erit ad'nuc spatium a mo-
+bili A descriptumsad spatium a mo-
+bili ss eodem tempore descriptum S
+ut celeritas illius c ad celeritatem hu-
+
+jus C. Qe. d.
+
+THEOREMA IV.
+
+34. Spatia ἃ dnobus mobilibus per-
+
+aaa stmt in ratione composita tempo-
+rum (y celeritatum.
+
+DEMONSTRATIO.
+
+Describat mobile A celeritate c spa-
+tium s tempore t , & B celeritate C spa-
+tium S tempore T. Ponamus idem mo-
+bile B celeritate c describere spatium
+q ternpore T. Quoniam celeritas c mo-
+bilium A & B cadem, erit q: szT: t
+(§. 32. ). Et quia spatia S ὃς q eodem
+tempore T describuntur, erit S ε q Ξ C: c
+(35.33). Ergo qusq=TC:tc (§.213.
+Amh.); consequenter S: f Ξ TC : tc
+( §.181.Arithm. >3 consequenter spa-
+tia sunt in ratione composita tempo-
+
+rum ὃς celeritatum (§. 15 9. Arithm).
+
+ἷζε. d. θ
+
+COROLLARIUM L
+
+35. Si S:s; erit CT=ct , adeoque
+C: c :⁴ t.- Tm 299.Arithm.), hoc est,
+fi duo corpora motu aequabili aequalia spa-
+tia describ-unt ; celeritates habent tem·
+porum rationem reciprocam.
+
+MECHANICAE.
+
+CoRoLLARIUM ΙΙ.
+
+36. Si ulterius t = T; erit etiam C Ξ c,
+adeoque corpora , quae motu aequabili
+tempore aequali spatia aequalia percurrunt,
+aequali celeritate feruntur.
+
+THEOREMA V.
+
+37. Duorum corporum motu aequabili
+latorum celeritates C dt· c fimt in ra-
+
+tione compostus ex dirce& spatiorum
+
+S &s ῤ’ reciproca temporum T& t.
+DEMoNsTRATIO.
+
+Est enim S:s=CT.·„2ct (34). Qa-
+re cum fitsCT=Sct(§. 297 Arith.);
+egite (Ξῖ.- c=St :sT < §. 299 Arithm.)
+
+COROLLARIUM.
+
+38. Qoniam C2c=scssT (S. 37);
+
+erit th=÷:-{ (ς. 181.Arithm.) Qasre
+
+celeritas C analytice exprimitur per —f’
+
+hoc est, celeritas est ut spatium per tem-
+pus divisum.
+
+THEOREMA VI.
+
+39. Si duo corpora motu aequabili
+lata celeritatibus C ὠ· c describunt
+
+spatia S ῤ’ s, tempora T ά t, quibui·
+describuntur , erunt in ratione compost-
+ta ex direcfia spatiorum (γ’ reciproca ce-
+leritatum.
+
+DEMoNsTRArto.
+
+Quoniam S:s= CTzct (§· 34),-
+eritsCT=Sct (S 297 Arithm.) Qia-
+ιᾷἷεαξΞ-σὸε Cs( §. 299 Arithm.).
+
+THEOREMA VIL
+
+40. Si spatia S ὠ [ἃ duabus υἵοίὶ-
+t us
+

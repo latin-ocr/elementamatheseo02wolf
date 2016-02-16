@@ -1,0 +1,123 @@
+Tab. 1.
+Fig.4.
+
+26
+
+plures divisa ‚· secabitur in Cylindros aequales,
+cum eorum bases (φ altitudines aequales sint
+(§. 535 Geom.) atque similes, cum altitudi-
+nes sint ut diametri basium ( §.570. Geom.).
+
+THeoREMA XXIV.
+
+144. Si centra gravitatis duorum
+corporum A ά Β jungantur recia AB
+centri gravitatis communis C dislau-
+tiae BC &⁵ CA a centris gravitatis
+particularibus B & A stant reciproce
+ut pondera A (ῤ’ Β.
+
+DEMoNSTRArto
+
+Ponamus enirn rectam AB divisam
+esse in C in ratione reciproca ponde-
+rum A & B. Sit e. gr. pondus A 6
+librarum ,‚pondus B 2 2 δε AC: CB
+Ξ 1:3. Concipiatur retsta AB utrin—
+que producta in D ἃ Ε, donec BD
+:AC δε Atia-C& erit fica-CO
+(§· 88 Arnim, ). Concipiatur porro
+rec‘ta ΕΙ) in 8 partes aequales divisa,
+quot nempe librarum sunt pondera
+
+junctim sumta , δε quoniam gravitas ’Δ
+
+non mutatur, quomodocunque varie·
+tur figura ( 5 140) ‚ gravitas corpo-
+rum A ὅ( Β per renam ΕΙ) aequali-
+
+ 
+
+f
+
+ELEMENTA M-ECHANICAE.
+
+mune C erit in medio tetstae AB centra
+grav1tatts conjungentis. ·
+
+CoRoLLAtttuM II.
+
+146. Qia. A213=BC=AC3erit A. AC
+ΞΒ. BC. Unde patet vires aequiponde-
+rantium aestimandas esse per fad-'kun ex
+massa in distantiam εὶ centro gravitatis.
+Factum hoc Momentum ponderum vulgo,
+vocant.
+
+SCHoLJONt
+
+147. Theorema hoc utiliffirnum experi—
+mento non ineleganti illustrari potest. Ex
+ligno parentur parallelepipeda plura inter
+se aqualia &quorum latitudo fit dupla pro-
+funditatis, longitudo vero Jextupla latitudi-
+nis: quamvis neceffe non fit ‚ ut hae rationes
+
+accurate observentur , sufficit enirn longitu- Tab.]
+dinem aliquoties excedere reliquas dimen- fig'5
+
+fiones. Parentur praeterea alia quaedam:
+unum fit longitudinis duplae , alterum triplae,
+tertium quadruplae (9⁹ ita porro. Qffldfi
+parallelep‘ipedum longitudinis duplae collo-
+ces fuper latere prismatis trigoni, ita ut
+latus prisrnatis ipsunt dividat in partes
+tes aequales AC (9' CB 3 partes AC ff? CB
+aequiponderabunt: quo ipso Axioma (§.141 )
+confirmatur. Collocetur porro parallelepipe-
+dum triplae longitudinis DE ea lege super
+prismate ‚ ut ejus latus ipsum dividat in par-
+tes DF, PE, quoe sunt in ratione subdupla :
+
+ter diffusa concipiatur , centris gravi· ἓ pars ΡΒ praeponderabit. Qodfi vero tria
+
+tatis manentibus fn A ὃς Β.
+detur adeo gravitas ipfius B per FD
+& gravitas ipsius A per EF uniformi—
+ter ( §- 1'42) , consequenter pondera
+
+Ἀ δε Β junctim sumta rcfflcam ED re-
+
+Praescntabunt. Hujus vero centrum
+gravitatis commune est in C < §. cit.).
+Ergo idem cst centrum gravitatis com—
+
+’ ' inune “ponderum Ἀ δε Β. Qe. d. “³
+
+COROLLARIUM Ι.
+145.Q10dfi gravitates corporum A ὃς Β
+fuerint aequales 2 centrum gtavitatis com-
+
+ἕ
+ῑ
+
+ 
+
+DiffUn, ᾗ parallelepipeda firnplicis longitudinis ipsi DF
+’ super imposueris; quatuor parallelepifoeda duo-
+
+bus PK, KH in unum PE conjunflis aequipon-
+derabunt. Est enim ipsius PE centrum gra-
+vitatis inK c& ipsius DF in medio L per
+experimentum primunt. Distantiae igitur cen-
+trorum gravitatis a fulcro ‚LF tia· FK fiant
+ut DF ’Θ FE seu ut pondera (§. 130 Mech.
+&e 57 3.Geom.). Est ergo ibi centrum gra· x
+vitatis commune , ut habet Theorema nof-
+trurn'(³§.1'442). Eodem modo ·deprehendun-·
+tur 9 prismata sibi mutuo superimposita oequi-
+ponderare uni IH, cujus longitudo illorum
+longitudinis tripla, (9⁸ ita porro,v
+
+Come-
+

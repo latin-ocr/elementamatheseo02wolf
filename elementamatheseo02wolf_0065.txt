@@ -1,0 +1,119 @@
+αφ. VJ. DE DESCENSU GRAva IN PLANo 'INCLINATQ 51
+
+>erit EF=DG δε ΡΟ-τ--ΕΒ (5. 335
+Ceam). Est igitur gravitas absoluta
+ad respectivam ut DF ad FG sive DE.
+Enimvero cum ΠΗ & AB ad eandem
+'CB perpendiculares existant per hypoth.
+
+inter se parallelae snnt ( §.206 Geom.),
+adeoque anguli EDF δε ΕΑΒ aquales
+(§.233Geom.)‚ Qoniam vero prae·
+terea anguli E ὃς Β resti sunt, per
+hypoth. erit DF: DE: CA: AB (§.2 67
+Geom.) Qare graevitas‘absoluta ad
+resperstivam ut CA ad AB (ᾗ. 167
+Arithm.) Qe. d.
+
+CoRoLLARIUM L
+
+262. Cum adeo globus D super plano
+inclinato gravitate tantum respectiva gra-
+vitet , pondus L juxta directionem longi-
+tudini plani parallelam DA trahens eum
+retinebit, fi fuerit ad ipsum in ratione
+altitudinis AB ad longitudinem plani AC.
+
+CoRoLLARIUM IL
+
+263. Qo'dfi longitudo plani CA suma-
+’ tur pro sinu toto ‚ erit AB finus anguli
+inclinationis ΑΕΒ (5.3 Trigon.) Est igitur
+‘gravitas absoluta ad respectivam ponderis
+super plano¹ inclinato, adeoque etiam
+pondus D ad pondus L juxta directionem
+DA ipsum sustentans, ut {inus totus ad
+’ finum anguli inclinationis·
+
+COROLLAkium III.
+
+264.Hinc gravitates respectivae ejusdem
+corporis super diversis planis inclinatis sunt
+inter se ut finus anguli inclinationis. Est
+enim ut finus totus ad finum anguli in-
+’ clinationis plani unius, ita gravitas abso-
+luta ad respectivarn super eodem(§.26³)
+& ut finus totus ad sinum anguli inclina-
+tionis plani alterius , ita eadem gravitas
+absoluta ad respectivam super hoc plano
+(.5·.⁶²'t·)· Qare ut finus anguli inclina-
+tionis planorum, ita sunt gravitates re-
+
+spefflvae eiusdem corporis super iisdem
+(ᾗ. 196Arithm.).
+
+CORoLLARJUM IV.
+
+265. Maior ergo gravitas respe&iva,‘
+quo major angulus inclinationis; minor
+itidem illa est, quo minor hic existit:cum
+crescentibus angulis crescant, decrescenti=
+bus decrescant finus (ς. 58. 301 Geom.
+(φ’ §. 2. Trigon. ).
+
+CoRoLLARtan.
+
+266. Sicut itaque in plano verticali, ubi'
+inclinatio maxima, nempe perpendicu-
+laris, gravitas respectiva degenerat in 'ab-
+solutam3 ita in plano horizontali‚ ubi
+nulla inclinatio ‚ gravitas respectiva pror-
+sus exspirat ‚ hoc est, grave secundum
+longitudinem plani nullum nisum exercet.
+
+CoRoLLARIUM VI.
+
+267. In plano igitur verticali vis mo-
+tum impediens ipsi aequalis est: in plano
+horizontali ad grave retinendum vi nulla
+opus.
+
+PROBLEMA XLIII.
+
+268. Invenire finum anguli inclina· Tab-
+tionis plani, fhper quo data vi pondus 111,
+
+Fig.31.'
+
+datumsustentari poffit.
+R Ε s o L υ Τ 1 o.
+
+Fiat ut pondus datum D ad vim
+datam L , ita finus totus ad finum
+anguli inclinationis plani (§.262).
+⁴ ’ E. gr-Sit pondus 1000, vis 5olibrarum:
+reperietur angulus inclinationis 20 52'
+
+Log. 1000: 30000000
+
+Log. 50: 16989700
+
+Log. Sin. tot. 1 00000000
+
+Log. Sin. inclin. Ξ 8 6989700, cui in
+tabulis quam proxime respondent 20 52'.
+
+THEOREMA XXXIV.
+
+’ 269. Si pondus L juxta clireb‘t'ionem
+
+perpendicularem ,ΞΒ descendit ὠ pondag
+2
+
+ 
+
+Tab.
+1 Ι Ι.
+
+figffi.
+

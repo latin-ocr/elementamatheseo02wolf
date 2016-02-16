@@ -1,0 +1,99 @@
+ELEMENTA MECHANICAE. ’-
+THEOREMA CLXXV⁹
+
+7 39. Incrementum celeritatis grao-
+vium in medio non re‘ststeme est ad in,-
+crementum acqutsttae in medio , quod in
+ratione duplicata celeritatis refistit 2 ut
+quadratum celeritatis terminalis ad eJ‘us
+
+fiaepra quadratum celeritatis acqmfita-
+exceffum.
+
+202
+
+Sunt vero tempora ‚ quibus celeritates ,
+a -ἓ- v
+
+ 
+
+istae acquiruntur, ut l Δι’-υ
+
+(§·734)· ,
+
+Qare fi ratio summae terminalis celeri*-
+tatis ac acquilitae ad differentiam acqui-
+fitae a terminali sumitur ut numerus a
+erit tempus, quo celeritas acquisita fuit,
+ut LogarithmuS. Qff· d„
+
+DEMoNS-TRATlo.
+
+ΤΗ EOREMA CLXXIV„-
+
+Quoniam celeritas gravium in mediox
+non resistente. crescit in ratione tempo-2·-
+ris (§. 68 )‚· fi tempus dicatur x >
+crit incrementum celeritatis momenta-
+neum, in tempusculo scilicet dx 2 uti dx...
+
+Τὼ, 73 8. Si descenfitigravis refistitur in
+xvsti, ratione duplicata celeritatum ὠ· spatia
+fig⁹> percurstt fint ut Logarithmi Sinuum LE
+„3760- arcus BE quadrantis „BD celeritate ter-2⁷
+
+minali tanquam radio descripti 3 tempor
+
+ra infimata sunt ut Logarithmi rationis,
+inter finum verficm BL ὠ· complentem
+tum ejus ad diametrum L&
+
+DEMONSTRATIO„
+
+Si enim descensus gravis impeditur
+in ratione duplicata celeritatis ἃ celez-
+ritate terminali AB descripto quadran-
+
+te BED cofinusarcus BE, seu arcus,
+
+ED finus LA est ut celeritas acquili-
+ta , spatia percursa sunt ut Logarithmi
+sinuum Εἰ, (§. 732), tempora vero
+insumta ut Logarithmi rationum inter
+finum versum BL & ejus complemen-
+tum ad> diametrum LS (§. 734 >-
+Qamobrem quando spatia percursa
+sunt ut Logarithmi finuum 3 tempora
+insumta sunt ut Logarithmi rationum in-
+ter finum versum BL & ejus acl diamea
+'trum complementum LS. Qe. d.
+
+Jam fi celeritas terminalis za, cele-
+ritas toto tempore x in medio, quod⁴
+in ratione duplicata> celeritatis resistit 2
+acquisita == v 3⁴ erit azdx -—- v2 dx:
+:azdv , prouti patet ex demonstratio--
+ne Theorematis 166. (5722). Est
+igitur dx: dvm-am a2·——— v2. Qua· i
+re cum dv fit incrementum momen·x
+taneum celeritatis in medio data lege·
+resistente acquifitae, erit incrementum. ,.
+celeritatis in vacuo, ad ejus incremen- -
+tum in¹ medio ‘resistente3 ut quadratum t
+celeritatis terminaliS, ad ejus exceffu1n2
+supra quadratum acquifitae. Q. e. d,
+
+CoRoLLARIUM‚
+
+740⁴ Quoniam (a2-v²)= (a ὧν) (ιι-’τὼ
+erit dx ad dviii ratione composita a ad aff-v*
+δε a ad α-υ, hoc est, incrementum ce- '
+letitatis in vacuo momentaneum est in
+casu dato ad incrementum in medio re- ,
+sistente, in ratione composita celeritatis
+terminalis ad eandem celeritate acquisita· .
+auctam& ejusdem celeritatis terminalis adii
+
+ipfius supra acquisitam excellunt,
+{fibo-..1-
+

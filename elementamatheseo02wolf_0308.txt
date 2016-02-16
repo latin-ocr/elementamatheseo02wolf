@@ -1,0 +1,115 @@
+256
+
+Ax1oMA II.
+
+14. Si duorum corparqem >volumina
+fuerim aequalia , densttatesssmt ut maffiae.
+
+SCHoLloN.
+
+15. Nempe vi defin. (§-. 8)corpus dicen-
+dum est duplo densius , fi duplum maffia sub
+eodem volumine continet ; triplo densius, si
+
+triplum ‚ Θ ita porro.
+CoRoLLARIUM.
+
+16. Sunt igitur densitates corporum
+aequalium ut pondera seu ut gravitates
+
+(ᾗ. 112. Mechan. ).
+T H ε’ o R ε Μ A Ι.
+
+17. Si duo corpora eandem densita-
+tem habuerint, mafflefimt ut volumina.
+DemonsTRATIO.
+
+Sub eodem enim volumine aequalem
+massam continent (§. 12), adeoque in
+volumine duplo continetur massa du—
+pla , in triplo tripla, in quadruplo qua-
+drupla ἃ ita porro, Sunt igitur mas-
+sae ut volumina. Qe. d.
+
+CoRoLLARIUM 1.
+18.Qonia1n etiam· gravitates sunt ut
+maffae (§. 112.Meclmn. ) 3 corporum ejus-
+dem denfitatis gravitates sunt in ratione
+'voluminum (5. 167. Arirhm. )‚
+CoRoLLAniuM ΙΙ.
+
+19. Ergo corpora eiusdem densitatis
+sunt etiam eiusdem gravitatis specificae 3 &
+contra (§. 6).
+
+COROLLARIUM III.
+
+20. Quare corpora diversae densitatis
+
+sunt diversae gravitatis specificae ; δε contra.
+
+THEOREMA ΙΙ.
+21. Maffie duorum corporum fimt in
+ratione compofita densttatum atque vo-
+
+luminum.
+DEMONSTRArro.
+
+Sint trium corporum maffae a, b, c,
+
+ELEMENTA HYDRosTArteAE.
+
+volumina primi ὃ( secundi d, tertii eff ·
+densitas primi f, secundi & tertii g ε
+sint nempe primum ὅ( secundum ejus?-
+dem vol.umin13‚ secundum & tertium ·
+ejusdem densitatis. Quoniam
+
+atb=fzg (§.14)
+
+b:c-·-:d:e (§.17.)
+
+erit ab : bc=fd:ge (§ 213. Arithm.)
+consequenter a .·.c :fd : ge ( §- 181»
+Arithm. ). Q e. d.
+
+CoaoLLARiUM 111.
+
+22. Qouiam gravitates sunt ut massae?
+(§. 112.Mechan.); eaedem etiam sunt in
+ratione composita densitatum ὃς volumi-2
+num (§.167. Arithm. >i
+
+THfioRfiMA ΙΙΙ.
+23. Si duorum corporum maffie vel
+
+J gravitates fuerint ‹equale-53 denfitates
+
+fient reciproce ut volumina.
+DEMoNstRATIO.
+Sint enim omnia ut in Theorematis
+
+praecedentis demonstratione, erit a : σε
+fal-’ge (§.21). [am a :cper hy-
+potb. adeoque fd :gen Est igitur
+f: g--ze : d ( §.299. Arzthm- ). Qod
+
+erat unum.
+QionJam gravitates sunt ut maffae
+
+(S. 112. Meshan.) Si massae aequaies
+sunt , etiam gravitates aequales sunt.
+Sed si massae aequales sunt , densitates
+sunt reciproce ut volumina, per demons-
+trata. Ergo etiam, si gravitates aequa-
+les sunt , densitates reciproce sunt ut
+
+volumina. Q e. d.
+
+THtoREMA IV.
+24. Duorum carporum quorumcunque
+densttatcsfimt in ratione composita ex di—
+
+rec‘Ja maffitrum ὠ voluminum ἐπέρησα. ’
+ΕΜΟΝ se
+

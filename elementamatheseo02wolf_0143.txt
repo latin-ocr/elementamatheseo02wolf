@@ -1,0 +1,98 @@
+capas. DE MoTU PROJECTORUM.
+
+m
+
+*vationis RAB invenire prejec‘tilis cele· ¹ finite propinqua: erit arculus curvae
+
+ritatem ‚ qua ab initio fertur, hoc &st 2
+altitudinem AD ³ unde maleredo estiusme-
+Δι’ celeritatem acquirere valet„
+
+R'EsOLuTIO„
+
+Cum AC=tm fit finus versus,
+CQzssAB(§. 512) finus rectus an-
+guli AIQ(§. 2.Trig. ) , quem esse an-
+guli elevationis RAB duplum cx de-
+monstratione problematis 95 (εἶ. 510)
+constat: quaeratur ad finum versum an=
+guli dupli elevationis ‚ finum totum ὃς
+altitudinem jactus .- vel ad {inum rectum
+anguli dupli elevationis , finum totum
+δε quartam amplitudinis partem nume-
+rus quartus proportionalis: erit is ra-
+«dius IQ five m, cujus duplum AD est
+altitudo quaefita ( §. cit.) ⁴
+
+S c H o L 1 o N.
+
+ς 1 ς. Potuisset quoque Curva projecti onis
+analytice investigari θ quidem in omni gra-
+vitatis hypothesi poffibili : quod ut appareat,
+sequens subjungere lubet problema.
+
+PRoBLfiMA XCVII.
+
+5 Ι 6. Invenire Cnrvam projeetionis‚
+direetionibm gravium suppofitis paralle-
+lis , in medio nen reſsstente.
+
+ResoLuTto.
+
+ὼ. Ι. Ponamus corpus grave horizontaliter
+Γ projici secundum directionem AR ‚
+AMm effe Curvam projectionis, AQ
+abscissam 2 QM semiordiuatarn , aut,
+fi mavis Ar> abscissam , PM serni-
+ordinatam. Sit ΑΡ ..—.: QM =x,
+Αῼεῐ ΡΜ =y. Intelligatur se-
+miordinata p m alteri PM infini-
+Wl i Oper. Mathem.T0m. II. ι
+
+infinite parvus Mm==5l (dx²÷dy²)‚
+adeoque Mm2zdx²÷dy2 ( §. 144.
+Analjfi iffa.) Qouiam projeffilein
+medio non· relissente movetur per hy- 1
+poth. motus , quo vi impressa movetur,
+aequabilis < §. 71 ). Porro cum grave,
+dum motu composito per Mm fertur
+( §. 241). per spatiolum infinite par-
+vum Mo (redta ΜΟ parallela &=Pp)
+descendens isto tempusculo etiam aequa-
+liter moveatur 5 erit tam ΜΟ, quam
+Om in ratione compofita celeritatis &
+temporis ( §. 34). Qodfi ergo pona-
+mus AQfive PM exponere tempus
+( §. 31 >5 erit tempusculum, quo pro-
+jectile per asculum Mm defertur, :dy0 ’
+Fiat celeritas projectili impreffa , quae
+constans est , Izerit Om ut dy. Sit
+porro celeritas a gravi cadendo in M
+acquifita=v3 erit Mo ut vdy. Habe-
+mus itaque Mm² ut dy2-1—v2dy2, con-
+sequenter
+dy²÷v²dy²zdy²÷alt2
+
+——-·-—-——-1——-—
+
+adeoque v²dy² Ξ (lx2
+
+ναί] = dx
+‘by-{12} :v
+Ἷῖ-ῗῑ-ῗιῑκ
+
+Data igitur celeritate v εὶ gravi in Μ·
+acquisita per κς reperietur aequatio ad.
+Curvam projectionis,
+Jam in hypothesi GALILJH vztlx«
+:xxm ( ς. 87 >-
+
+Ergo dyz-——x-122dx
+
+hoc esty = 2x¹²² 22:25&
+
+——m——q
+J’- :435
+
+R Est
+

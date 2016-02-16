@@ -1,0 +1,115 @@
+'sab-⁴
+IV.
+
+Fig.
+5 0.
+
+1226
+Ι DEMONSTRATIO.
+Qoniam A132At=52R½ Aq (§.
+
+² 268. Geom. )‚ &At-:i AB(§' 498ss
+
+erit etiam Αᾳ-Σ--ζ- AR. Est vero AR2:
+Aq²==BR2 qm (ἓ. 416. Analjf fin..)
+Qiare cum Aq² :ssARss per demes-es?
+tras. erit quoque (lm-:233 BR. Qed
+erdt unum·
+
+Sed , Ob AB t At :ER: tq (§.268‚
+Goem.) & At=}AB(§.498)152„—2
+{BR 2 hinc {tq z} BR. Est vero qm:
+{BR per demonstr. Ergo qm--zj- tq (S.
+87. Arithm. ) :tm ,Quod emt 4ίῆ
+terum.
+
+q {PROBLEMA XCIII.
+
+501. Data amplitudine AB ό* an-
+gulo elevationis ΒΑΗ , determinare al-
+titudinem jac‘Jus maximam tm„
+
+RESOLUT1Q
+
+SiAR sumatur pro sinu toto, erit BR
+finus 2 AB cosmus anguli elevationis
+BAR (§. 3. ΙΙ. Diagon.) Qare fi fiat
+ut colinus anguli elevationis ad finum
+ejusdem, ira amplitudo AB ad quartum
+reperietur BR, cujus quarta pars est
+altitudo jactus maxima tm (ἕ. 499).
+
+CoRoLffAnium
+
+¹502. Qoniam data celeritate projeeti-
+lis amplitudo maxima (5. 497, ) & inde
+porro amplitudo sub angulo elevationis
+quocunque invenitur ( ᾗ. 496. )‚· data ce-
+leritate, maxima quoque {aftus altitudo
+inveniri potest· < ἕ. 501 )
+
+THEOREMA LXX.
+503. 'Altitudo jac‘ffm tm est ad odia-
+
+vam parametri partem m sinus ver us
+anguli dupli elevationis adfimtm totum.
+
+l
+
+l
+
+ELEMENTA MECHANIC'AE.
+
+DEMoNsTRATto.
+
+Sit finus anguli elevationis ΒΑΚ ἐ’-ἅς
+coffinus-0: b, linus totus -=t‚ parameter
+:tx 3 erit amplitudo AB :absc .·t²(§.
+496·)&(§- 501-)
+
+bzazAB: BR
+ἑταῖῤ-ξε gij
+--tz t²
+
+Ergo tm: {BR (5500) =a²x : 425²
+==2a²x2 8z2. Est vero (b2—-a²): t
+colinus anguli dupli elevationis ( ᾗ,
+325. Analyfi finit.) ὃς hinc linus versus.
+ejusdem anguli dupli t-- (h22—aff· ): t
+(ᾗ. affligem. ) Ξ( 12---b² ÷ae²) ε t
+consequenter ob t2 θεαὶ (§.16.
+Trig.), idem finus versus :2-:2a22 t. Est
+adeo ut t finus totus ad 2a²z t finum
+versum anguli dupli elevationis, ita {x
+odiava parametri pars ad altitudinem
+tm.- Q. e. d.
+
+CoRoLLARItJM 1.
+
+504. Qioniam ut finus totus ad finum
+versum anguli dupli elevationis in uno
+casu, ita oet-‘iva parametri pars ad altitu-
+nem jaffius, & ut finus totus ad finum ver-=
+sum anguli dupli elevationis in altero quo—
+cunque casu, ita ottava parametri pars
+ad altitudinem ( §- 503.), velocitate au-
+tem existente eadem parameter quoque
+in diversis angulis elevationis eadem est
+( §. 484) ; erunt altitudines jastum sub di·
+vei-fis angulis elevationum ut finus versi
+eorumdem angulorum duplorum (§.196„
+Arithm. )
+
+COROLI,AR‘1UM 11.
+
+ 
+
+505. si linus anguli elevationis in uno
+casu a, in altero c, velocitate existente ea·-
+dem , altitudines juditium sunt ut cz2x: 4t2
+ad c2x: 4t2 (§. 503 >, hoc est ut αἱ ad c?-
+( AY. 181 Arithm. >‚ adeoque in ratione
+duplicata finitum angulorum elevationum.
+
+ο PRO·
+

@@ -1,0 +1,106 @@
+Q ELEMENTA MECHANICAE
+
+COROLLARIUM II.
+
+384. Qlo longiora itaque sunt pendula
+in arcubus circuli oscillantia 3 eo majores
+
+oscillationes Isochronae sunt.
+
+S c H o L ι o N Ι.
+
+385. Experientia non abludit. Qodsi
+enim duo fuerint pendula ejufiz'em longitudi-
+nis, quorum unum in majorem, alterum in
+minorem arcum, utrumque tamen in arcum
+non nimis magnum , oscillando excurrat ‚· in
+oscillationibus centum vix aliquam differen-
+tiam {notabisn
+
+S c H o L 1 o N I I.
+386. Penduli inter duas fhmiqycloides ο]“ει“ἶε
+
+tantis tam theoria, quam praxis debetur il·-
+
+lustriHuez-:N10(a)
+P R o Β L E M A L V.
+387 , Determinare durationem estil-
+
+lationis in Cycloide.
+
+est, ut ffAB ad «PB ‚ consequenter ἓ
+Mm: mRr--z 5! AB : “PB (§.167 Arithm.).
+Unde Mm=mR. VAE: xl ΡΒ & dt
+==dx xla: xl( 2rx—x2) ==2rdx da: «
+2r5l( 2rx--x2). Est Vero rdx: xl(2rx
+—xx) :Nn ( §. 157 Analyf. infinit.) ’
+Ergo dt: 25la. Nn: 2r &ſsz't=sNn.
+2xla: 2ν. Jam 'quando file five t tem=
+pus denotat , quo grave per arcum cy-
+cloidis QB descendit, s Nn in serni-
+peripheriam circuli degenerat. Quare
+ut 2r seu diameter circuli, ad semiperi-
+pheriam ejus ‚- ita mla, ad tempus per ff
+arcum Qss ‚ consequenter eum 2tla
+
+·= za: «sa denotet tempus descensus
+
+perpendicularis per AB (§. 39. 83),· pa-
+tet tandem (§. 168 Arithm.) sequens
+Theorema‘e Tempus integra: oscillatio- Tali
+
+. , R E ³ 0· L U· T Ῐ 9· , nisperarcum quemcunque Cycloidis GDQIII.
+Tab. Sit diameter c1rcu11 gemtorls seu al· est ad tempus descensus perpendicularis fig.
+
+ῙῪ· titudo totius Cycloidis AB=2a; ΗΒ per diametrum circuli genitoris AD ut pe- 39·
+1⁷²3· altitudo , ex qua descendit pendulum ripheria circuli ad. diametrum. ” ·
+
+46. per arcum illius QB=2r, HP=x 2
+
+erit PB =2r——x. Sit porro tempus
+per (ἕπει 3< super HB describatur
+semicirculus HNB ducanturque PM at-
+-que pm infinite propinquae ad HB per-
+pendiculares: erit FN: os(2rx—-—xx),
+Pp=Noszzdx , &celeritas in P ,
+adeoque & in M (5. 303 )‚ acquisita
+Ξώσζὲ. 83), consequenter, cum in-
+finitefima Mm motu uniformi percur-
+ratur, tempus per Mm Ξ dt :Mm dx
+(ς. 39). Constat vero ( §. 131 AnalyJJ
+infinit.) esse Mm τ mRzss‘S: ΒΡ δε AB:
+BS=BSt BP (5. 330 Geom. ). Est ita·
+que BS ad BP in ratione subduplica-
+ta AB ad BP, (ᾗ. 216 Aridum->5 hoc
+
+(a) vicie Horologium <osculandum five De-
+monstrtiones d? motu Penduloium ad horologia
+aptato Geometticae.
+
+'CoRoLLARIUNn
+
+2388. Hinc denuo consequitur , quod
+jam superius aliunde demonstratum (§.3 ιι),
+
+tempus descensus per quoslibet arcus cy-
+cloidis esse aequidiuturnum , oscillationes
+
+item in omnibus arcubus cycloidis effe
+
+ἱ aequidiuturnas.
+
+THEOREMA LIII.
+
+- 389. Gravitatis aerio minor est in
+iis Terrae regionibus , ubi oscillationes
+eJusdem penduli fiant tardiorem major ·
+vero ‚ abt eaedem celeriores.
+
+DEMONSTRATIQ
+
+Tempus oscillationum in cycloi-
+de est ad tempus descensus perpendi-
+
+cularis per diametrum circuli genitoris
+ut
+

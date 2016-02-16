@@ -1,0 +1,106 @@
+Tab.v.
+fig.
+
+160
+
+CokoL'LARIUM.
+
+61 8. Est adeo vis centrifuga ut red-a
+DE ad AD perpendicularis , fi arcus AEin.
+
+finite parvus( ,οἳ 245 ).
+DEFINITIO LXVI.
+619. Vis centripeta est vis , qua mo-
+bile per restam AG progreffurum re-
+trahitur a motu rec'tilineo , ut in curva
+incedat.
+
+CoaoLLARIUM I.
+
+620. Est itaque vis centripeta ut reeta
+DE, fi arculus AE infinite parvus.
+
+CORoLLARIUM IL
+
+621. Et hinc vis centripeta centrifugae
+equalis est( S. 618. ).·
+
+DEFINITIO LXVII.
+
+62 2. Vires centrales communi no-
+mine ducuntur vis centrifuga atque een·
+tripeta.
+
+THEOREMA CXXI.
+
+623. Si duo corpora pondere aeqrtalia
+eodem vel aequalt' tempore motu ‹equa-
+hali peripherlas circulorum inaequalium
+destribant , erunt vires centrales ut dia-
+
+metri AB d* HL.
+
+DEMONSTRATIO.
+
+Sit arculus ΑΕ infinite parvuS, adeo-
+que ὲ subtensa non differat. Qia
+peripheria? eodem tempore describun-
+tur ς fi ex centro C ducatur radius ΟΕ,
+erit HK arculus eodem momento des-
+criptus δε ad peripheriam minorem ut
+alter ΑΕ ad majorem( §j 137. Ceam).
+Qodfi jam ducantur tangentes AD &
+HI atque ex puncta E & Κ ad illas
+perpendiculares ΕΙ) & KI , ΔΔ ADE
+
+ELEMENTA MECHANICAE.
+
+δε HIK eodem modo determinantur,
+( §. 119. Geom.) adeoque firnilia sunt
+( §- 120. Geom. )‚ consequenter AE:
+HK=DE: IK(§.175. Geom. ). Sunt
+vero ut DE ad IK ita vis centralis in
+circulo majore ad vim centralem in
+minore (S. 620). Ergo vires centra-
+les sunt ut arcus ΑΕ ⁴& HK (§. 167.
+Arithm. ) consequenter ut peripheriae
+circulorum, quas percurrunt, per de.
+monstrata ‚ adeoque ἅ ut diametri eo-
+rundem (§.412. Geom. ). Qe. d.
+
+CoRoLLARIUM.
+
+624. Qodsi ergo vires centrales duoss
+rum corporum peripherias circulorum
+inaequalium describentium fuerint ut dia-
+metri , temporibus aequalibus easdem per-2
+currunt.
+
+ΤΗ EOREMA CXXII.
+6 25. Corporis in peripheria circuli Ta
+incedentis vis centralis cst ut arcus in·
+
+finite parvi AF, quadratum per diame-
+trum AB divg'fum.
+
+DEMoNsTRATIO.
+
+Demittatur perpendicularis EM ε erit
+in rectangulo ADEM, AM Ξ DEQuo-
+niam arcus infinite parvus AB a sub-
+tensa non differt3 erit BA: AE=AE2
+AM<§. 330. Ceam). Est ergo AM
+:z DE =r>AE² : BA (ὃ. 301.Arithm.)
+Qxare curn vis centralis fit ut DE ( §-
+620); erit eadem ut Al? :BA. Q. e. d.
+
+COROLLARIUM
+
+626. Cum ergo corpus motu aequabili
+tempusculis aequalibus arculos aequales ΛΕ
+describat (θ’. 31 );vis centraliS, qua cor- ,
+pus in peripheria circuli urgetur, constan-
+ter cadem est.
+
+Tazo-
+

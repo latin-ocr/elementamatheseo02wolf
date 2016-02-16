@@ -1,0 +1,129 @@
+'184
+
+tangens cutvae resistentiae totalis ANG ,
+est Logatithtnica‚ cujus asymptotus BF Ι
+( §. 54. Anal. infin. ). Repraesentat au- j
+ritates in fine illorum temporum.
+sum relatae exprimunt celeritates reli· ÷
+
+tem BF tempus & semiordinatae ad ip-
+
+duas εὶ resistentia medii. „Q e. d.
+
+SCHOLION.
+
+682. Si cyr-ais dubitet hanc effe Logarith-
+
+micae proprietatem propriam, quod [ὶιὺῑαη- ἶ
+gens sir constans: haud difficulter iiiem demonfi
+
+, vero ΝΜ celeritates reliduas exhibent
+
+v &⁹ x inlS respondentes abst-iffae? erunt (5⁶ 681 ) Qodfi ergo tempora su-
+
+tratur. 'Sint enim z dy y duce femiordinatae,
+
+, vdx zdv
+fiaebtangentes ⁵—d—y ἔφ’ (ss, adeoque ydx: dy
+Ξ a &⁹ zdv: da Ξ a (§. 54. Amal. infirm),
+consequenter ydx : dy: zdv: dz ( ,οἵ 87.
+Arithm.) Qoniczm differentiae absccffae su-
+mitur constans ‚· erit dx Ξ dv , consequenter
+y : dy Ξ z: dz (ς. 183. Arithm. ³ . adeoque
+y >1⁴dy :y = z ›l‹ dz: z (§. 190. Aritium).
+Habemus adeo semiordinatas in proportione
+Geometrica. Jam ipsis respondentes absciffie
+
+x—l-dx &'‘x⁶thlaeev÷dv&v ob clx-:dv -
+
+sunt aeqtaei-d{ffe7⁴e7ztes < ,οἵ 322. Arithm. ).
+Absciffis adeo ecqui-defferemibtts respondent
+semiordinam in Geometrica progre zone, con-
+sequenter cur-va constantis subtaagentis esi
+Logarithmica (5. 552. Anal. fin. ). Ceterum
+ANG dicitur curva resistentiae cocalis ad
+differentiam curvae resistentia: instantaneae,
+in qua semiordinatae sunt uc celeritates in
+instanti amissae.
+
+THEOREMA CXLIII,
+
+683. Si mobile motu aequaebili per
+medium fertur ‚ in quo eidem refisti-
+
+tur in ratione celeritatum ὠ· tempora ·
+firmantur aequalia; erunt celeritates in >
+principiis singulorum temporum in pro·
+
+ELEMENTA MECHANteAE
+
+1 NV ‚ aequalia sunt. Est vero AB : ΝΜ
+’ :NM: T R per demonstr. i
+
+' tes temporibus aequalibus amissiae sunt
+
+· demonstr. etit etiarn AB--NM : ΝΜ
+'hoc est, AO ε NM: NV1TR3con. · Ι
+
+i 17·3.sstrithm. ), seu celeritates ternpo-
+⁵ ribus ae‘q'ualibus ΒΜ & MR amiffae sunt
+
+ 
+
+μ, , ll.
+
+greffione Geometrica (T partes fingulir
+temporibus amtffie erunt iiſslem propor-
+tionaeles seu ut tota 3 vel etiam ut cele-
+
+ 
+
+1
+l
+t
+
+DEMONSTRATIO.
+
+ 
+
+Si enim mobili a medio per ‘quod 'gi
+
+motu aequabili, fertur, resistitur m ra· ΗΝ
+
+tione celeritatum3 curva refistentiae 165³
+
+’ ANG Logarithmica est, cujus asymp-
+
+totus BF tempus repraesentat 2 abiciffie
+
+ἶ muntut aequalia, celeritates in princi-
+* piis temporum suntin Geometrica pro-
+
+ἶ greffione ( δ’ 552· Anal. fin.) Qod
+
+3 erat unum.
+
+Qodfi fiat EM: MR, tempora,-
+quibus amittuntur celeritates AO &
+
+Ergo ΑΒ
+-ΝΜε AB: NM--TR ε ΝΜ (5.
+193. Arithrn.)hoc est, AO: AB: NV:
+NM ‚ consequenter AO: NV Ξ AB:
+ΝΜ < §. 173. Arithm.) , seu celerita-
+
+ut totae in principiis illorum temporum.
+
+Qud erat secundum.
+Qtoniam AB: ΝΜ Ξ ΝΜ : TR per
+
+Ξ ΝΜ -- TR τ TR ( ἕ. 139. Aridum),
+sequenter AO: NV: NM: TR ( §.
+
+ut celeritates NM δε TR in fine illo- -
+rum temporum. Quod erat tertium.
+
+Ulti-
+
+ 
+

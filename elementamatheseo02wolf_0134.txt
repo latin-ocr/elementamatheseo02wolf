@@ -1,0 +1,109 @@
+120
+
+3. Qoniam longitudo fili cum radio
+& duae quintae tertiae proportionalis
+ad compofitam ex semi-diametro ὃς
+longitudine fili atque semidiametrum
+ipsam definiunt distantiam centri
+
+oscillationis ab axe (§.468) earun-
+dem pars tertia quantitatem pedis
+horarii constituit. (§. 425 ).
+
+SCHOLION Ι.
+
+470. HUGENtus (a) hot modo 'inve‘
+nit, pedem horarium effe ud Pnrifienfiim
+ut 881 ad 864 hoc esi, longitudo pendu-
+li fimplicis oscilltztiones fingulns singulis mi-
+nutis secundis absolventis effi? ‘trium pedum
+Parifientum cum octo lineis ΕΤ dimidia.
+Monet autem pedem Parifzenfiem ad Rhena-
+num effe ut 144ad 139 ‚ hoc esi, quinque
+suis lineis diminui debere, ut alterum relin-
+quat. ·
+
+SCHotloN IL
+
+471³ Qodsi gravitas omnihus in locis
+‘eadem effen pes horarius mensura foret uni-
+verslzlis θ’ perpetuet, quemadmodum Huofi-
+mus contendit: sed cum eandem variari
+nunc constet pro diversa ab aequntore defi
+tantia (§.39o); nonnisi iis in locis endem
+penduli simplicis minuta secunda metientis
+longitudo, quoran latitudines non nimis dif-
+crepant. Qo itaque mensura vere univer-
+salis haberetur, opus praeterea effet, ut ra-
+tio longitudinum penduli praedioli in diversis
+latitudinibus una determinaretur. Nec hoc
+sorte attentione omni prorsus indignum cen-
+seri dehet ‚· hattenus nec per experimenta
+constare, nec demonstratum effe, quod eo-
+·dem in loco intra amplum temporis inter-
+vallum, veluti aliquot seculorum'decursum
+gravitas non mutetur.
+
+(a) Horolog. Oscillat. Part. IV. Prop. 25.
+fol. 152. δε 153-
+
+χ
+
+ELEMENTA MECHANICAE.
+
+THEOREMA LXIII.
+472. Spatium descenfies perpendicuz
+
+laris gravium intra minutum secun·=
+dum temporis est ad ſsmtffi’m longitu-
+dinis penduli simplicis , cujus oscillatioe
+
+nes minutis secundis respondent , in ra- >
+
+tione duplicata peripheriae ad diametrum
+circuli.
+
+DEMoNsrRATIO.
+
+Sit ‘pes horarius tet sumtus seu lona-
+vgitudo penduli fimplicis ‚ cujus oscil-
+lationes minutis secundis horariis res-
+pondent (§. 42 5) z: a, tempus descen-
+sus per dimidiam illam longitudinem
+zt, altitudo quaefitazx, ratio dia-
+metri ad peripheriam =d.· pi etit
+tz-:dzp (§.387 ). Est vero τὶς 1
+
+Ξὲαεκ (937) adeoque meza-{cm
+hoc est ‚ fi valor ipsius t modo inven- ·-
+
+tus substituatur , d²x :p²=¹2 a , seu
+d³x :z {- ap2.
+
+Qed.
+
+CoRoLLARIUM-
+
+473. Quoniam d: p: 113:335(§.43'1-
+Geom.) & a: 3'8}‘s' seur737 lineatum di- ’
+
+midiarum pedis Parifienfis (§.470); erit
+x: apzz 2d² r: 737· 1260 25 z 25538
+z 18:801: 15‘1ss8'f' seu 15'1ll quam pro-‘2
+:nme-⁰
+
+S C H o L 1 o N.
+
+474. Haec cum experimentis accuratisjia
+mis prorsus convenire observavit Huoamus
+
+(b).
+
+Ergo x:}a=p²: ΑΖ» “
+
+CAPUT 34 ⁷
+
+(h) In Horolog. Oscillat. Part. IV. Prop. 22·- ”
+
+fol. 142.
+

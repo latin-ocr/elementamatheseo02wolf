@@ -1,0 +1,110 @@
+Tab. Ι.
+Fig. 1.
+
+14
+
+ScHoLION IV.
+
+91. Cum adeo experimenta thcmm in
+observando maxime exercitati in tanto in-
+tervallo instituta Theoriae apprime confim-
+tiant; vix attendenda effi² videntur, quae
+in contrarium affert (c) DsanLEs ‚ quifie
+expertum scribit ‚ imo minuto fiemzsecundo
+grave descensu fiio confhciſje pedes 422, duo-
+bus 16¹3, tribus 36, quatuor 60, quinque
+90, sex 123. Sufficit, quod ipse d refisten-
+tia aeris irregularitatem deducat ‚ quam in
+*demonstratione insu er habuimus.
+
+THfioREMA XVIII.
+
+9 2. Si grave in medio non reststente
+per intervallum non nimis magnum des·
+
+cendit, spatium ab eo decurfiaem est stib-
+
+duplum ejus , quod eedem tempore mo· ‘
+
+tu uniformi cum ea velocitate cmfficititr³
+quam infine temporis grave acquirit.
+
+DEMONSTRATIO,
+
+Concipiatur recita AB, quae tempus
+integrum descensus repraesentet , in par-
+tes quotcunque aequales divisa, & ad
+abscissas Ap, AQ AS, ΑΒ applicen-
+tur r-ecstae PM, Q ‚ SH, BC, quae sint
+ut celeritates cadendo in istis tempori-
+ribus acquifitae. Quoniam itaque
+APzAQ: PM: Q15AP2AS z PM.·SH
+&a (§.85.): ὃς rectae PM,Q1, SH,
+BC inter se parallelae (§. 2 56 Geom.)3
+erit ΑΒΕ triangulum (§. 268 Geom. ).
+Et spatium tempore AB percursum est
+ut triangulum ABC: quemadmodum
+ex demonstratione Theorematis 15.
+(§- 80. ) constat. Spatium vero eo-
+dem tempore AB celeritate BC uni-
+formiter descriptum cum fit ut re&-
+angulum ABCD (§. 34); erit utique
+
+11.(cf.) ὶξῑςτῖιὶεκ lib. 2. prop. 11. Mund. Matth. Tom.
+
+ELEMENTA MECHANICAE.
+
+{311de hoc ut 1 ad 2 (5386 Geom.)
+,θ’ .
+
+CoRoLLAR1UM.
+
+‘9 3 . Spatium igitur, quod tempore ipfius
+AB dimidio celeritate BC in fine temporis
+AB ἓῑ gravi acquisita conficitur, aequale est
+spatio ‚ per quod grave ex quiete tempo-
+re AB integro descendit.
+
+PROBLEMA Ι.
+
+94. Dato tempore ‚ quo grave ex
+altitudine data desc’endit 2 spatia defi-
+nire 2 qua fingulis istius temporis parti-
+bus confecit.
+
+R E s o L U ‘r J 0.
+’ Sit altitudo datar-za, tempus =t,
+spatium parte temporis 1 confestum κς,
+erit ( §.86 ).
+
+Izt²=:x:a
+t²x==a
+· x=axt²
+
+Est adeo spatium parte temporis pri· -
+ma confectum azt²‚ adeoque decur-
+sum parte secunda =3a2t² ‚ tertia
+descriptum Ξ §az t² &a (§.86).
+
+E. gr, supra in experimentis Riccioli
+
+(§. 90 ) intra 4 secunda globus cretaceus
+descendit ex altitudine 240 pedum. Spa·-
+
+tium igitur primo secundo confeecum v
+
+Ξ 240: 16 Ξ 15 , spatium confe6³fflm se-
+cundo τ. 15. 3 :45 , confeGmm tertio
+Ξ ι 5. 5 Ξ 75 ‚ confeetum denique quarto
+
+ις. 7:105. Est autem 15÷45÷75÷
+1052240.
+PRo B L E M A II.
+
+9 ς. Βαῑο tempore , quo grave in me-
+dio non rcfistente per spatium - datum
+deseendit, determinare tempus, quo aliud
+
+spatium datum in eodem medio congciet.
+- Eso-
+

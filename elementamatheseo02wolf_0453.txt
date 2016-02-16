@@ -1,0 +1,112 @@
+Capyn. DE PERCUSSIONE FLUIDORUM. 393
+
+ad finum anguli incidentiae (§.3o<>); erit
+etiam illa ad hane, ut tota reeta ΑΒ ad
+segmentum ejus (ΞΒ (§.156. Arithm. ).
+
+Q. e, d.
+
+CoRoLLARUJM I.
+31 1 ‚Quoniam AB > GB(§.84·Arithm⁷-)3
+
+tur per V2. (ΞΒ , angulo incidentiae exis-
+tente CAR. “
+
+Ρ R o B L E M A X L.
+31 ς. Determt'nare vim , quam ven· Tab.'
+tus indireeffe impingens in alas molen· YHLl
+dim· exerit ad eas convertendas. 1⁷²3·84·'
+
+l
+
+vis quoque , qua reeta AB a fluido direffte
+percutitur, est ea, qua indireece percuti-
+tur, maior.
+
+CoRoLLARIUM II.
+
+312. Quodsi angulus incidentiae Fuerit
+IAB ‚ reeta: AB segmentum vi indireffle res-
+pondens erit ΒΚ (§. 3¹0)· Qare cum fit,
+sub angulo incidentiae ΕΑΒ, vis= dimota ad
+indirefflmm, ut AB ad (ΞΒ & ‚ sub angulo
+incidentiae minore HAB, ut AB ad KB
+(§.cit.) ‚· vis dimota ad indire&arn,sub an-
+gulo incidentiae maiore, minorem ratio-
+nem habet quam sub minore (§. 205.
+Arithm.).· consequenter vis indireffiia, sub
+angulo incidentiae minore, minor est, quam
+sub majore (§. 206. Arithm.): unde de-
+crescente angulo incidentiae etiam vis per-
+cuffionis decrescit, atque direffione AC
+coincidente cum AB ‚ hoc est, si fluidum
+juxta direffionem AB movetur, percussio
+nulla est.
+
+CORoLLARIUM III.
+
+313. Quoniam vis diretffht sub angulo
+incidentiae ΕΑΒ, est ad indire&am; ut AB
+adGB: sub angulo vero incidentiae HAB,
+ut AB ad KB (5. 310); vires indimetae, sub
+diverfis angulis incidentiae, eandem rec-
+tam AB percutientes sunt inter se ut rec-
+tae Gss δε ΚΒ (§. 196. Arithm. >.
+
+CORoLLARIUM 1V.
+
+314. Qodfi fluidum feratur celeritate
+V, vis direlim, qua percutitur reeta AB,
+exponitur per V'. AB (§. 282). Quare cum
+fit vis direeta ad indireRam, ut AB ad GB,
+angulo incidentiae existente (ΖΑΒ ( 5.
+
+309) 3 reperietur vis indirecqa V2· AB. GR
+
+=V20 GB, adeoque vis indii-cita elitssoni-
+
+Wolffi Oper. Mathem. Tom. ΙΙ.
+
+ 
+
+REsoLUTm ET DfiMoNsTRATto.
+
+Repraesentet recta 10 axem atque
+
+planum ADCB alam, iu quam ventus
+secundum direffiones obliquas KA δε
+ΗΒ agit. Ala axem, cui perpendi-
+culariter insistit, secet ad angulum obli-
+quum Am (§. 929. Mem). Qoniam
+itaque ventus secundum direecionem
+obliquam 15 in planum AC circa axem
+IE convertendum agit per hypoth. ideo
+investiganda est vis ‚ quam ventus ad
+planum ADCB circa axem ΙΕ conver-
+tendum adhibet, dato angulo obliquita-
+tis ΑΕΙ, magnitudine alae ADCB,
+ejus latitudine ΑΒ ὃ( celeritate, qua
+aer movetur.
+
+Ι. Ducatur AG ad ΗΒ perpendi-
+culatis: cuni a'er secundum direc-
+tiones parallclas ΚΑ & ΗΒ defe-
+ratur ad rectam AB , non plus aeris·
+ferit planum obliquum ad axem
+ADCB , cujus latitudo AB, quam
+planum aeque altum axem ad angu-
+los redtos secans 2 eujus latitudo AG.
+Exponit igitur reeca AG quantita-
+tem aeris planum simul ferientis, Jam
+porro exponat EL celeritatem, qua
+movetur aer, cujus densitas ἦτε-*ἅς
+erit maffa aeris , qua percuffio ab-
+solvitur in pund³to E , ut AG (Iusta
+in densitatem, ac porro in LE.
+
+2. Demittatur ex L reeta LM ad AB
+perpendicularis: evidens est perpen-
+
+dicularem LM exponere celeritatem
+D d d res-
+

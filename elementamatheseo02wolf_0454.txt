@@ -1,0 +1,110 @@
+,394 ELEMENTA HYDRAULICAE.
+
+respestivam , qua ventus in planum
+secundum direstionem obliquam in
+E incurrens¹ agit ( §. 245. Mech.).
+3. Qoniam vero ventus planum
+ADBC movere nequit nifi circa
+axem IE, circa quem converten-
+dum: non omnem vim ‚ quam ha-
+bet a celeritate respedtiva [Μ , in
+astionem suam impendit. Demit-
+tatur ergo perpendicularis MN ex
+puncsto M in axem ΙΕ ; evidens est
+celeritatem LM resolvi in duas alias
+LN ὃ( ΜΝ & eam , quae est secun-
+dum direffionem MN tantummodo
+proficere ad axem convertendum.
+4. Denique cum in P (it centrum ma-
+gnitudinis , idemque centrum gra·
+vitatis( §. 245.M'echan.) , adeoque
+mass'ae totius plani ADC35 patet
+vim, quam ventus adhibet ad pla-
+num ADCB circa axem ΙΕ conver-
+tendum , concipi polle tanquamap-
+plicatam ad punctumP‚&PE tanquam
+radium Axis in peritrochiO, cujus
+centrum E. Unde liquet vim, quam
+adhibet ventus , exprimi per d. AG.
+LE. MN. ΕΡ (5. 153. Mech.). ω’.
+
+PROBLEMA XLI.
+
+316. Determinaresitum alarum mo·
+lendini vi venti indirefbe impingentis
+agitati, in quo ventus vim maximam
+adhibet adeas convertendas, [ἐκ eas
+maxima celeritate convertit.
+
+ResoLUTIO.
+
+wilm 1. Sint omnia ut in Problemate praece-
+
+fig. 84.
+
+dente„ dicaturque AB :a , LE =b,
+ΕΡ :z c, denfitas aeris :z m,GB-=x<;
+erit, ob AB: ΕΒ ιτ- {a per hypoth-
+
+& ΙΕ ῑεέὶεε ΗΒ parallelam , an—...-
+
+{GB=} x (ἓ. 268. Geom. ), δε
+
+AG: χ] (a2—x2 ) (§.417.Geom.).
+2. Quoniam in ΔΔ AGB & LME an-
+
+guli ad G & M redii per constr. <Sc
+
+MEL: ABG (§. 2 5 ς. Geom.)3 erit
+
+(§. 267. Geom. ).
+
+AB: AG :LE : LM
+
+a:„s(a2—x2)==b:l’“s(‘²²'x)
+
+a
+3. Similiter quia in ΔΔ Alio δέ [ΜΝ
+anguli ad O&N recti per constr.
+&, ob redium LME per constr. & Ob-
+liquum L ΔΔ [ΜΝ ὃς [ΜΕ com-
+munem‚angulus LMNz--AEO (S.
+246 Geom.)3 erit (§. 267. (ἢθη).
+AEAEO=LM2MN
+b κ] (4222ss d(a²·- xz)
+a aa >
+4. Quoniam vis, quam ventus adhi-
+bet ad planum ADCB cirea axem
+ΙΕ convertendum, est ut m. AG.
+
+ 
+
+ 
+
+ 
+
+{aff-xz
+
+ 
+
+LE. MNAEP (§. 315); erit ea
+bcx
+
+:bmfflst-xj) a2-ixl(a²-x²)
+b²cmx³
+
+ 
+
+:22³² cmx—— a,
+
+5. Isssbegnus itaque (S. 63. Analffi
+ln n·
+
+bzcmdx -— 3b2cmx2dx
+
+...ΞΟ
+
+ 
+
+-ι--μυ, --ι-ι-ω--ὢψ
+

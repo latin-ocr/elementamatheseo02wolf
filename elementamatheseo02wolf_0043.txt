@@ -1,0 +1,152 @@
+ἓξὲξ, mMNn‚ concipiantur instar ponderum ad
+
+fab. Ι.
+ἲς. 1 0.
+
+capum. DE CENVTRO GRAVITATIS. 29
+
+COROLLARIUM.
+157. Si Elementa figurarum , quale
+
+axem ΑΕ appensorum & in vertice A
+punctum suspensionis 3 determinabitur
+punctum in AE‚ ex quo summa omnium
+ponderum suspensa eodem modo ponde-
+
+rat ac tota figura, hoc est centrum gra· ’
+
+vitatis ( §. 1 25), summa momentorum om-
+nium pondusculotum per summam pon-
+dusculorum divisa (§. 153 ). «Sit enim
+AP='x, MP εγ, Pp=dx3 erit
+unum pondusculum zydx‚ summa om-
+nium zfydx, momentum unius pondusculi
+
+zyxdx (§. 153) , summa omnium zsjtxdx,
+consequenter distantia centri gravitatis εὶ
+vertice AF Ξ thxdxzsjscix. Quodsi adeo dif-
+ferentialia yxdx δι’ ydx integrentur, ut
+in Analyfi Infinitorum docuimus ‚ cen-
+trum gravitatis determinatur.
+
+opizonem A XVI.
+158. Determinare centrum gravita-
+
+tt's in triangulo BAC.
+
+ResoLu‘r10.
+
+Ducatur recta AD basin BC bifa-
+riam secans in D. Qioniam Δ ΒΑΙ)
+:ADAC<§. 440 Geom.): utrumque
+in totidem ponduscula ad communem
+axem AD eodem modo utrinque ap-
+plicata resolvi p‘otest3 adeoque cen-
+trum gravitatis ABAC erit in AD (§.
+
+' ’ 122). Illud igitur ut deterininetur‚fiat
+
+AD=a,BC=b‚AP=x , MN:y;
+c erit (§. 397 Geom.)
+AP: MszissiD:⁴ BC
+
+= x: y zeta :— b
+
+Hinc y=bx2 a. Ducatur AEr-:c per· ’
+
+‘pendicula‘rfs ad BC , erit AD : AB
+:Apu AQ(§. 396 Geom.) ’,’· adeo-
+RQ: cx: a ὅ( Qz-cdxrd, -² ssUnde
+momentum .y'xdx z cbx²dx ε a³ δε syxclx
+
+==cbx³.· 3a2 ‚ quae summa per aream
+trianguli AMNzchx2: 211² ( §. 392
+Geom. ) divisa dat distantiam centri
+gravitatis εὶ vertice r: 2acbx³ ε 3acbx²
+=}x(§.157). Quodsi pro x substi-
+tuatur a ; prodibit distantia centri gravi-
+tatis totius trianguli εἰ vertice }a=} AD.
+
+PRosstzmA XVII. Tab1
+
+· 159. Determinare centrum gravita- ΗΕΘ.
+tzs in parabola. Α
+
+R E s o L U T 1 o.
+Ad Parabolam est
+
+ydx-:a¹²²x¹²²d—x—(—§. 103 Amal. iffin.)
+fffia¹⁵²x³ ²dx
+ſscydx=ssa¹²²x⁵²²
+sed fidxzt}ae¹²²x³⁷² (§. cit. )
+Ergo ſscydx:sjdx:·:}x :AF(§.157)·
+PRoBLEM A XVIII.
+160. Determinare centrum gravita-
+
+tis in omnibus Parabolis fhperiorztm ge-
+nerum (5⁹ curvis agnatis in iffnitun20
+
+Resotumo.
+
+ 
+
+ 
+
+ 
+
+ 
+
+In infinitis parabolis ὃς curvis agna-
+tis'cst ( §. 105 Analyst infinit. ).
+ydx r: amrxmwd-x,
+xydxzii‘22fx(m†r)³rdx
+
+ſssydx ²-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ν anzrx(m÷2r):r
+
+ 
+
+7n÷2r
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Egr in Paraboloide cubicali m: 1 , ν
+= 3 (ᾖ. 5 ¹9 Analyf. finit.) Ergo AF=3A1>2
+In Paraboloide- fi1rdesolidali* mnf-3, 1 , r
+
+ἧς. Ἐκςο, Asz-f-TAP... , ,
+” D 3 In*
+
